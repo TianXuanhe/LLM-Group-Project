@@ -1,0 +1,17 @@
+{
+  "model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "method": "LoRA",
+  "accuracy": {
+    "gsm8k": 4.67,
+    "svamp": 21.0,
+    "aqua_rat": 8.66
+  },
+  "lora_config": {
+    "r": 16,
+    "alpha": 32,
+    "target_modules": [
+      "q_proj",
+      "v_proj"
+    ]
+  }
+}

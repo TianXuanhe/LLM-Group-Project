@@ -1,0 +1,17 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "method": "LoRA",
+  "accuracy": {
+    "gsm8k": 50.33,
+    "svamp": 54.0,
+    "aqua_rat": 45.67
+  },
+  "lora_config": {
+    "r": 16,
+    "alpha": 32,
+    "target_modules": [
+      "q_proj",
+      "v_proj"
+    ]
+  }
+}
