@@ -1,0 +1,2034 @@
+[
+  {
+    "id": "aqua_rat_test_000000",
+    "question": "A car is being driven, in a straight line and at a uniform speed, towards the base of a vertical tower. The top of the tower is observed from the car and, in the process, it takes 10 minutes for the angle of elevation to change from 45\u00b0 to 60\u00b0. After how much more time will this car reach the base of the tower?\nOptions:\nA)5(\u221a3 + 1)\nB)6(\u221a3 + \u221a2)\nC)7(\u221a3 \u2013 1)\nD)8(\u221a3 \u2013 2)\nE)None of these",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000001",
+    "question": "The original price of an item is discounted 22%. A customer buys the item at this discounted price using a $20-off coupon. There is no tax on the item, and this was the only item the customer bought. If the customer paid $1.90 more than half the original price of the item, what was the original price of the item?\nOptions:\nA)$61\nB)$65\nC)$67.40\nD)$70\nE)$78.20",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The pr ice of the it em is $ 1 . 9 0 + 2 2 % = $ 1 . 9 0 + 2 2 / 1 0 0 = $ 1 . 9 0 + 2 2 / 1 0 0 = $ 1 . 9 0 + 2 2 / 1 0 0 = $ 1 . 9 0 + 2 2 / 1 0 0 = $ 1 . 9 0 + 2 2 / 1 0 0 = $ 1 . 9 0 + 2 2 / 1 0 0 = $ 1 . 9 0 + 2 2 / 1 0 0 = $ 1 . 9 0 + 2 2 / 1 0 0 = $ 1 . 9 0 + 2 2 / 1 0 0 = $ 1 . 9 0 + 2 2 / 1",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000002",
+    "question": "Find out which of the following values is the multiple of X, if it is divisible by 9 and 12?\nOptions:\nA)36\nB)15\nC)17\nD)5\nE)7",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000003",
+    "question": "If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur?\nOptions:\nA)0.22\nB)0.26\nC)0.37\nD)0.46\nE)0.63",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 0 . 2 2 + 0 . 2 6 + 0 . 3 7 + 0 . 4 6 + 0 . 6 3 = 0 . 9 3",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000004",
+    "question": "A trader sold an article at a profit of 20% for Rs.360. What is the cost price of the article?\nOptions:\nA)270\nB)300\nC)280\nD)320\nE)315",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The co st pr ice of the art ic le is the co st pr ice of the art ic le + the co st pr ice of the art ic le * 2 0 % = 2 0 % * 3 6 0 = 3 6 0 * 2 0 = 6 4 0 = 3 6 0 * 2 0 = 6 4 0 * 3 6 0 = 1 5 2 0 = 1 5 2 0 * 3 6 0 = 5 0 4 0 = 5 0 4 0 * 3 6 0 = 1 5 2 0 * 3 6 0 = 5 0 4 0 * 3 6 0 = 1 5 2 0 * 3 6 0 = 5 0 4",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000005",
+    "question": "20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold?\nOptions:\nA)40\nB)200\nC)380\nD)400\nE)3200",
+    "gold": "D",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000006",
+    "question": "Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct?\nOptions:\nA)74453\nB)64543\nC)74325\nD)65000\nE)97656",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000007",
+    "question": "A train running at a speed of 100 miles/hour, takes 10 hours to reach its destination. After covering quarter of the distance, it starts raining and the train has to be slowed to speed of 75 miles/hour. What is the total journey duration?\nOptions:\nA)10\nB)11.5\nC)12.5\nD)13.5\nE)15",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 0 + 1 0 + 7 5 = 1 0 0 + 1 0 + 7 5 = 1 7 5 = 1 5",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000008",
+    "question": "Of the 200 students in a school, at least 45% attended the prom night and at least 35% took part in the debating session. What is the maximum number of students who could have neither attended the prom night nor the debating session?\nOptions:\nA)27\nB)81\nC)90\nD)99\nE)110",
+    "gold": "E",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000009",
+    "question": "A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000?\nOptions:\nA)15\nB)24\nC)25\nD)40\nE)52",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The comm iss on on $ 2 5 0 is 1 0 %. So the comm iss on on $ 2 5 0 is 1 0 / 2 5 0 = 0 . 0 4 = 4 % The an sw er is : 4",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000010",
+    "question": "A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ?\nOptions:\nA)226\nB)230\nC)240\nD)260\nE)280",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The pr of it ( re ven ue fr om sa les min us pro du ction cos st s ) is $ 6 2 6 , 4 0 0 - 4 2 0 = $ 2 0 6 , 4 0 0 = 2 0 6 , 4 0 0 / 4 2 0 = 6 2 6 , 4 0 0 / 4 2 0 = 2 6 0 The min im um se ll ing pr ce is 2 6 0 / 4 2 0 = 2 6 0 / 2 0 6 , 4 0 0 = 2 6 0 / 2 0 6 , 4 0 0 = 2 6 0 / 6 2 6 , 4 0 0 = 2 6 0 / 2",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000011",
+    "question": "At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?\nOptions:\nA)4,000\nB)4,200\nC)4,500\nD)4,800\nE)5,000",
+    "gold": "A",
+    "pred": "E",
+    "generated_text": "The an sw er is : E .",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000012",
+    "question": "Machine A puts out a yo-yo every 6 minutes. Machine B puts out a yo-yo every 9 minutes. After how many minutes will they have produced 10 yo-yos?\nOptions:\nA)24 minutes\nB)32 minutes\nC)36 minutes\nD)64 minutes\nE)72 minutes",
+    "gold": "C",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000013",
+    "question": "Add: +45 and -30\nOptions:\nA)-30\nB)+30\nC)0\nD)15\nE)-15",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 8",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000014",
+    "question": "In how many ways can the letters of the word \"PROBLEC\" be rearranged to make 7 letter words such that none of the letters repeat?\nOptions:\nA)2!\nB)3!\nC)7!\nD)8!\nE)9!",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 7 !",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000015",
+    "question": "Let A and B be independent events with P (A) = 0.2 and P(B) = 0.8. Find P(A/B)?\nOptions:\nA)0.2\nB)0.4\nC)0.6\nD)1.2\nE)1.5",
+    "gold": "A",
+    "pred": "B",
+    "generated_text": "P ( A / B ) = P ( A ) / P ( B ) = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 . 8 = 0 . 2 / 0 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000016",
+    "question": "Consider there is an staircase elevator and you are coming down. If you walk 20 steps and stop, then you reach bottom in 10 minutes. If you walk 10 steps and stop, you reach to the ground in 20 minutes. What is the speed of the elevator?\nOptions:\nA)1 step/minute\nB)2 step/minute\nC)3 step/minute\nD)4 step/minute\nE)None of the above",
+    "gold": "A",
+    "pred": "E",
+    "generated_text": "The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000017",
+    "question": "Last year, a Home Appliance Store sold an average(arithmetic mean) of 42 microwave ovens per month. In the first 10 months of this year,the store has sold an average(arithmetic mean) of only 20 microwave ovens per month. What was the average number of microwave ovens sold per month during the entire 22 months period ?\nOptions:\nA)21\nB)30\nC)31\nD)32\nE)None of the above",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The av er age num ber of mic row ave ov ens so ld per mon th is the av er age num ber of mic row ave ov ens so ld per mon th + the av er age num ber of mic row ave ov ens so ld per mon th - the av er age num ber of mic row ave ov ens so ld per mon th = 2 0 + 2 0 - 2 1 = 4 1 The av er age num ber of ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000018",
+    "question": "An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers?\nOptions:\nA)(zy \u2013 2x)/z\nB)(zy \u2013 2)/z\nC)(zx \u2013 y)/(z \u2013 2)\nD)(zy \u2013 2x)/(z -2)\nE)(zy \u2013 x)/(z + 2)",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The av er age sc ore for the ent ire cl ass is equ al to y and th ere are z st ud ents in the cl ass , wh ere z > 5 , th en in ter ms of x , y , and z , wh at is the av er age sc ore for the cl ass ex cl ud ing the hi gh est and low est sc or ers ? The av er age sc ore for the cl ass ex cl ud ing th",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000019",
+    "question": "[5 + ? \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6\nOptions:\nA)4\nB)4.5\nC)5\nD)5.5\nE)6.5",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 6",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000020",
+    "question": "A grocer makes a 25% profit on the selling price for each bag of flour it sells. If he sells each bag for $100 and makes $3,000 in profit, how many bags did he sell?\nOptions:\nA)12\nB)16\nC)24\nD)30\nE)40",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The pr of it is $ 3 , 0 0 0 - $ 1 0 0 = $ 2 , 0 0 0 = 2 , 0 0 0 / 1 0 0 = 2 0 / 1 0 0 = 2 0 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = 5 / 2 5 = ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000021",
+    "question": "Alex and Jacob works at a toy shop that make toys. Alex takes 7 hours to make a toy, and Jacob takes 9 hours to make a toy. During a month, both of them makes 35 toys in total. If both of them have worked for almost similar number of hours how many toys have been prepared by Jacob?\nOptions:\nA)15\nB)16\nC)17\nD)18\nE)19",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000022",
+    "question": "John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk. What is the final concentration of tea John drinks?\nOptions:\nA)15.38%\nB)42%\nC)39.86%\nD)22.35%\nE)32.51%",
+    "gold": "E",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000023",
+    "question": "In a class 1/16 of the students study math, 1/10 of the students study bio, 1/8 of the students study english. The total number of students is a 4 digit number. Find the diffrence between maximum number of students and minimum number of students.\nOptions:\nA)8880\nB)8870\nC)8890\nD)7890\nE)6780",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The total num ber of st ud ents is a 4 dig it num ber . The an sw er is : 8 8 8 0 The an sw er is : 8 8 8 0 The an sw er is : 8 8 8 0 The an sw er is : 8 8 8 0 The an sw er is : 8 8 8 0 The an sw er is : 8 8 8 0 The an sw er is : 8 8 8 0 The an sw er is : 8 8 8 0 The an sw er is : 8 8 8 0 The an sw ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000024",
+    "question": "On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth.\nOptions:\nA)2 miles\nB)2.25 miles\nC)3.25 miles\nD)3.85 miles\nE)2.85 miles",
+    "gold": "D",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000025",
+    "question": "A retailer sold an appliance for 40 percent above cost, which represented a gross profit of $20.00. For what price did the retailer sell the appliance?\nOptions:\nA)$27.30\nB)$51.00\nC)$63.00\nD)$70.00\nE)$91.00",
+    "gold": "D",
+    "pred": "E",
+    "generated_text": "The an sw er is : E ) The an sw er is : E ) The an sw er is : E ) The an sw er is : E ) The an sw er is : E ) The an sw er is : E ) The an sw er is : E ) The an sw er is : E ) The an sw er is : E ) The an sw er is : E ) The an sw er is : E ) The an sw er is : E ) The an sw er is : E ) The an sw er i",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000026",
+    "question": "At 6% per annum simple interest, Rahul borrowed Rs. 500. What amount will he pay to clear the debt after 4 years\nOptions:\nA)750\nB)700\nC)620\nD)600\nE)None of these",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000027",
+    "question": "A computer routine was developed to generate two numbers (x,y) the first being a random number between 0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of the following pair satisfies the routine except\nOptions:\nA)(99,10)\nB)(85,9)\nC)(50,7)\nD)(1,1)\nE)(1,0)",
+    "gold": "A",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000028",
+    "question": "A jeep travels a certain distance taking 6 hours in the forward journey. During the return journey, it increased its speed by 12km/hr and took 4 hours. What is the distance travelled by the jeep?\nOptions:\nA)126km\nB)144km\nC)127km\nD)228km\nE)128km",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The dis ta nce tr av elled by the je ep is 1 2 6 km + 1 2 km / hr + 4 ho urs = 1 2 6 km + 1 2 km / hr + 4 ho urs = 1 2 6 km + 1 2 km / hr + 4 ho urs + 4 ho urs = 1 2 6 km + 1 2 km / hr + 4 ho urs + 4 ho urs + 4 ho urs = 1 2 6 km + 1 2 km / hr + 4 ho urs + 4 ho urs + 4 ho urs + 4 ho urs = 1 2 6 km + ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000029",
+    "question": "When I was 2 years old, my brother was half my age. Now I am 60 years old, how old is my brother?\nOptions:\nA)A)59\nB)B)69\nC)C)79\nD)D)89\nE)E)99",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000030",
+    "question": "The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost?\nOptions:\nA)20%\nB)28%\nC)36%\nD)40%\nE)42%",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The or ig in al re ta il pr ice was 6 0 per ce nt more th an its wh ol es ale co st = 6 0 - 2 0 = 4 0 The or ig in al re ta il pr ice was 6 0 per ce nt more th an its wh ol es ale co st = 6 0 - 2 0 = 4 0 The or ig in al re ta il pr ice was 6 0 per ce nt more th an its wh ol es ale co st = 6 0 - 2 0 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000031",
+    "question": "On a map, the length of the road from Town F to Town G is measured to be 20 inches. On this map, 1/4 inch represents an actual distance of 10 miles. What is the actual distance, in miles, from Town F to Town G along this road?\nOptions:\nA)800\nB)720\nC)960\nD)1140\nE)1160",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The act ual dis ta nce is 2 0 in ch es * 2 0 in ch es = 4 0 0 in ch es = 4 0 0 mi les = 4 0 0 mi les * 1 0 mi les = 4 0 0 mi les * 1 0 mi les = 4 0 0 mi les * 1 0 mi les = 4 0 0 mi les * 1 0 mi les = 4 0 0 mi les * 1 0 mi les = 4 0 0 mi les * 1 0 mi les = 4 0 0 mi les * 1 0 mi les = 4 0 0 mi les * 1",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000032",
+    "question": "When folded into two equal halves a rectangular sheet had a perimeter of 48cm for each part folded along one set of sides and the same is 66cm when folded along the other set of sides. Find the area of the sheet.\nOptions:\nA)1584\nB)1120\nC)792\nD)1320\nE)1200",
+    "gold": "B",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000033",
+    "question": "Suppose you can travel from a place M to a place N by 3 buses, from place N to place O by 4 buses, from place O to place P by 1 buses and from place P to place Q by 3 buses. In how many ways can you travel from M to Q ?\nOptions:\nA)24\nB)36\nC)72\nD)84\nE)None",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000034",
+    "question": "A rectangular solid, 3 x 4 x 15, is inscribed in a sphere, so that all eight of its vertices are on the sphere. What is the diameter of the sphere?\nOptions:\nA) 13.3542\nB) 15.8113\nC) 18.3451\nD) 19.5667\nE) 20.8888",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 9 . 5 6 6 7",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000035",
+    "question": "A starts travel towards south 3km, then travel 5 km towards east, and again travels 3 km to north, and finally travels 2km towards west. In the end how far from is A from home?\nOptions:\nA)3km\nB)2km\nC)4km\nD)5km\nE)6km",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000036",
+    "question": "While selling a watch, a shopkeeper gives a discount of 5%. If he gives a discount of 7%, he earns Rs. 15 less as profit. The marked price of the watch is:\nOptions:\nA)Rs. 697.50\nB)Rs. 712.50\nC)Rs. 787.50\nD)Rs. 750\nE)Rs. 780",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The pr ice of the watch is Rs . 7 8 7 . 5 0 The dis count of 5 % is 7 %. The pr ice of the watch is Rs . 7 8 7 . 5 0 The dis count of 5 % is 7 %. The pr ice of the watch is Rs . 7 8 7 . 5 0 The dis count of 5 % is 7 %. The pr ice of the watch is Rs . 7 8 7 . 5 0 The dis count of 5 % is 7 %. The pr i",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000037",
+    "question": "A student instead of finding the value of 7/8 of a number, found the value of 7/18 of the number. If his answer differed from the actual one by 770, find the that number.\nOptions:\nA)1584\nB)2520\nC)1728\nD)1656\nE)None",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000038",
+    "question": "The monthly salary S of a shop assistant is the sum of a fixed salary of $500 plus 5% of all monthly sales. What should the monthly sales be so that her monthly salary reaches $1500?\nOptions:\nA)$50000\nB)$40000\nC)$30000\nD)$20000\nE)None of these",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The mon th ly sal ary S of a sh op ass ist ant is the sum of a fix ed sal ary of $ 5 0 0 pl us 5 % of all mon th ly sa les . The mon th ly sa les of a sh op ass ist ant is the sum of a fix ed sal ary of $ 5 0 0 pl us 5 % of all mon th ly sa les . The mon th ly sa les of a sh op ass ist ant is the su",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000039",
+    "question": "An aeroplane flies along the four sides of a square at the speeds of 200, 400, 600 and 800km/hr. Find the average speed of the plane around the field?\nOptions:\nA)384\nB)562\nC)458\nD)156\nE)452",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000040",
+    "question": "Jack buys 18 sharpeners (white and brown) for rs. 100. If he pays 1 rupee more for each white than brown sharpeners. How many of white and how many brown sharpeners did he buy?\nOptions:\nA)10,8\nB)9,8\nC)7,8\nD)5,6\nE)11,12",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 0 0 - 1 8 = 9 2 - 1 0 0 = 8 2 - 1 8 = 7 4 - 1 8 = 5 6 - 1 8 = 4 8 - 1 8 = 3 8 - 1 8 = 2 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 8 - 1 8 = 1 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000041",
+    "question": "Hoses A and B spout water at different constant rates, and hose A can fill a certain pool in 8 hours. Hose A filled the pool alone for the first 2 hours and the two hoses, working together, then finished filling the pool in another 3 hours. How many hours would it have taken hose B, working alone, to fill the entire pool?\nOptions:\nA)8\nB)15\nC)12\nD)6\nE)3",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 8",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000042",
+    "question": "If 120 is reduced to 96, what is the reduction percent?\nOptions:\nA)30%\nB)40%\nC)20%\nD)10%\nE)5%",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "1 2 0 is re du ced to 9 6 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / 1 2 0 = 9 6 / ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000043",
+    "question": "I know a 5 digit number having a property that with a 1 after it, it is three times as large as it would be with a 1 before it. What is that number?\nOptions:\nA)42857\nB)32456\nC)76523\nD)24567\nE)43566",
+    "gold": "A",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000044",
+    "question": "At Daifu university, 24% of all students are members of both a chess club and a swim team. If 20% of members of the swim team are not members of the chess club, what percentage of all Daifu students are members of the swim team?\nOptions:\nA)20%\nB)30%\nC)40%\nD)50%\nE)60%",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000045",
+    "question": "If the population of a city increases by 5 % annually, what will be the population of the city in 2 years time if its current population is 78000?\nOptions:\nA)81900\nB)85995\nC)85800\nD)90000\nE)None of these",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 8 5 8 0 0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000046",
+    "question": "Two cars start at the same time from opposite ends of a highway that is 50 miles long. One car is riding at 12 mph and the second car is riding at 13 mph. How long after they begin will they meet?\nOptions:\nA) 1\nB) 1.25\nC) 1.50\nD) 1.75\nE) 2",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 = 1 2 m ph + 1 3 m ph = 2 5 m ph = 2 m ph = 1 . 2 5 m ph = 1 . 2 5 m ph + 1 m ph = 1 . 2 5 + 1 m ph = 1 . 2 5 + 1 m ph = 1 . 2 5 + 1 m ph = 1 . 2 5 + 1 m ph = 1 . 2 5 + 1 m ph = 1 . 2 5 + 1 m ph = 1 . 2 5 + 1 m ph = 1 . 2 5 + 1 m ph = 1 . 2 5 + 1 m ph = 1 . 2 5 + 1 m ph = 1 . 2 5",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000047",
+    "question": "A shopkeeper employed a servant at a monthly salary of 1500. In addition to it, he agreed to pay him a commission of 15% on the monthly sale. How much sale in Rupees should the servant do if he wants his monthly income as 6000?\nOptions:\nA)30000\nB)415000\nC)31500\nD)50000\nE)None of these",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000048",
+    "question": "A man borrows Rs.360 If he pays it back in 12 monthly installments of Rs.31.50, what is his interest rate?\nOptions:\nA)1.5%\nB)4.5%\nC)10%\nD)5%\nE)12%",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The in st all ment rate is 1 2 % The in st all ment rate is 1 2 % The in st all ment rate is 1 2 % The in st all ment rate is 1 2 % The in st all ment rate is 1 2 % The in st all ment rate is 1 2 % The in st all ment rate is 1 2 % The in st all ment rate is 1 2 % The in st all ment rate is 1 2 % The",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000049",
+    "question": "The price of a product is reduced by 30% . By what percentage should it be increased to make it 100%\nOptions:\nA)41.86%\nB)42.86%\nC)43.86%\nD)44.86%\nE)45.86%",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The pr ice of a pro du ct is re du ced by 3 0 % = ( 3 0 * 1 0 0 )/ 1 0 0 = ( 3 0 / 1 0 0 ) * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0 * 1 0 0 = 3 0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000050",
+    "question": "I have a money pouch containing Rs. 700. There are equal number of 25 paise coins, 50 paise coins and one rupee coins. How many of each are there?\nOptions:\nA)453\nB)651\nC)400\nD)487\nE)286",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000051",
+    "question": "A man spends Rs. 3500 per month and saves 12 1/2% of his income. His monthly income is ?\nOptions:\nA)Rs. 4400\nB)Rs. 4270\nC)Rs. 4000\nD)Rs. 3937.50\nE)None of these",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "A man sp en ds Rs . 3 5 0 0 per mon th and sa ves 1 2 1 / 2 % of his in come . His mon th ly in come is ? The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er i",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000052",
+    "question": "Five dozen toys are packed in a box and 98 boxes are kept in a tempo. How many tempos can lift 29400 toys in one round ?\nOptions:\nA)4\nB)5\nC)7\nD)6\nE)8",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000053",
+    "question": "There are 10 oranges in a basket. Find the no. of ways in which 2 oranges are chosen from the basket?\nOptions:\nA)45\nB)90\nC)120\nD)150\nE)180",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The no . of ways in wh ich 2 or ang es are ch os en fr om the ba sk et is 1 0 - 2 = 8 . The an sw er is : 8 = 1 5 0 - 2 = 1 3 8 .",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000054",
+    "question": "A company contracts to paint 3 houses. Mr.Brown can paint a house in 6 days while Mr.Black would take 8 days and Mr.Blue 12 days. After 8 days Mr.Brown goes on vacation and Mr. Black begins to work for a period of 6 days. How many days will it take Mr.Blue to complete the contract?\nOptions:\nA)7\nB)8\nC)10\nD)11\nE)12",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000055",
+    "question": "Train A leaves a station every 16 minutes and Train B leaves every 17 minutes. If both trains just left the station simultaneously, how long until they do so again?\nOptions:\nA)272 minutes\nB)304 minutes\nC)190 minutes\nD)70 minutes\nE)35 minutes",
+    "gold": "A",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000056",
+    "question": "A hollow cube of size 5cm is taken, with the thickness of 1cm. It is made of smaller cubes of size 1cm .If the outer surface of the cube is painted how many faces of the smaller cubes remain unpainted?\nOptions:\nA)438\nB)550\nC)500\nD)450\nE)498",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000057",
+    "question": "In a chocolate store, all chocolates are either vanilla or cocoa flavored only. 10% of the chocolates are cocoa flavored, 90% of the rest are squashed. What percentage of the chocolates are both vanilla flavored and not squashed?\nOptions:\nA)1%\nB)2%\nC)5%\nD)9%\nE)10%",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000058",
+    "question": "There is well of depth 30m and frog is at bottom of the well. He jumps 3m up one day and falls back 2m down the same day. How many days will it take for the frog to come out of the well?\nOptions:\nA)25 days\nB)26 days\nC)27 days\nD)28 days\nE)29 days",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 2 8 da ys",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000059",
+    "question": "The sum of the 5 consecutive two digit odd numbers when divided by 10 becomes a perfect square, which of the following can be one of these 5 numbers?\nOptions:\nA)47\nB)91\nC)41\nD)67\nE)44",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The sum of the 5 con sec ut ive two dig it odd num bers wh en div id ed by 1 0 be com es a per fect sq ua re , wh ich of the fo ll ow ing can be one of the se 5 num bers ? The sum of the 5 con sec ut ive two dig it odd num bers wh en div id ed by 1 0 be com es a per fect sq ua re , wh ich of the fo ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000060",
+    "question": "In a class, 8% of total students are interested in Football. 4/5 of total students are interested in Cricket. 10% of total students are interested in Basketball and remaining 20 students are not interested in any games. How many students are there in the class?\nOptions:\nA)850\nB)800\nC)900\nD)950\nE)1000",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 8 5 0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000061",
+    "question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years. What is definitely the difference between R and Q's age?\nOptions:\nA)22\nB)27\nC)29\nD)Cannot be determined\nE)None of the above",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000062",
+    "question": "Calculate the maximum distance you can travel with $8.50 on a cab which charges $3.50 for the first quarter-mile and 10 cents for each additional quarter mile.\nOptions:\nA)11.75 miles\nB)12.75 miles\nC)17.75 miles\nD)14.75 miles\nE)10.75 miles",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The max im um dis ta nce you can tr av el is $ 8 . 5 0 - $ 3 . 5 0 = $ 5 . 0 0 = 1 0 . 7 5 mi les The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000063",
+    "question": "In IPL season, Sachin current batting average is 51. In the finals, he scores 78 runs, then is batting average will be 54. Find out the total number of matches played by Sachin in this season.\nOptions:\nA)6\nB)8\nC)9\nD)10\nE)11",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000064",
+    "question": "Amy is organizing her bookshelves and finds that she has 10 different types of books. She then codes each book with either a single letter or a pair of two different letters. If each type of book is uniquely represented by either a single letter or pair of letters, what is the smallest number of letters Amy will need to create the codes for all 10 types of books? (Assume the order of letters in a pair does not matter.)\nOptions:\nA)3\nB)4\nC)5\nD)10\nE)20",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A ( 3 le tt ers + 1 si ng le let ter + 1 pa ir + 1 si ng le let ter + 1 pa ir + 1 si ng le let ter + 1 pa ir = 1 0 le tt ers + 1 si ng le let ter + 1 pa ir + 1 si ng le let ter + 1 pa ir + 1 si ng le let ter + 1 pa ir = 1 0 le tt ers + 1 si ng le let ter + 1 pa ir + 1 si ng le let ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000065",
+    "question": "A rectangular piece of 150 sq m has a length which is 1m more than the 4 times the breadth. What is the perimeter of the piece?\nOptions:\nA)60 m\nB)61 m\nC)62 m\nD)63 m\nE)64 m",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The per im et er of the piece is the le ng th of the piece times the br ead th of the piece = 1 5 0 m times 4 m = 6 0 m The per im et er of the piece is 6 0 m The an sw er is : 6 0 m",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000066",
+    "question": "One gram of a certain health food contains 9 percent of the minimum daily requirement of vitamin E and 8 percent of the minimum daily requirement of vitamin A. If vitamins E and A are to be obtained from no other source, how many grams of the health food must be eaten daily to provide at least the minimum daily requirement of both vitamins?\nOptions:\nA)8.5\nB)10.5\nC)12.5\nD)14.5\nE)16.5",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000067",
+    "question": "Assistants are needed to prepare for preparation. Each helper can make either 2 large cakes or 35 small cakes/hr. The kitchen is available for 3 hours and 20 large cakes & 700 small cakes are needed. How many helpers are required?\nOptions:\nA)8\nB)10\nC)12\nD)15\nE)19",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000068",
+    "question": "R, S, T, and U are points on a line, and U is the midpoint of line segment ST. If the lengths of line segments RS, RT, and ST are 5, 17, and 22, respectively. What is the length of line segment RU?\nOptions:\nA)6\nB)7\nC)8\nD)9\nE)10",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000069",
+    "question": "Six pita breads contain the same amount of falafel as do two rolls. Three rolls contain the same amount of falafel as five baguettes do. Two baguettes contain the same amount of falafel as how many pita breads?\nOptions:\nA)12/25\nB)3/2\nC)3\nD)2\nE)25/3",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000070",
+    "question": "A shopkeeper in order to promote his new shop put a discount of 20% on all the items for one day. Now he must sell the items at original price the other day. By what percentage must he increase the price to original?\nOptions:\nA)21%\nB)20%\nC)25%\nD)33%\nE)18%",
+    "gold": "C",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000071",
+    "question": "The bus fare for two persons for travelling between Agra and Aligarh id four-thirds the train fare between the same places for one person. The total fare paid by 6 persons travelling by bus and 8 persons travelling by train between the two places is Rs.1512. Find the train fare between the two places for one person?\nOptions:\nA)126\nB)77\nC)88\nD)66\nE)54",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The tr ain fa re for one per son is 1 2 6 The total fa re pa id by 6 pe rs ons tr av ell ing by bus and 8 pe rs ons tr av ell ing by tr ain is 1 5 1 2 The total fa re pa id by 6 pe rs ons tr av ell ing by bus and 8 pe rs ons tr av ell ing by tr ain is 1 5 1 2 The total fa re pa id by 6 pe rs ons tr ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000072",
+    "question": "A rectangle has a length of 8 centimeters and a width of 3 centimeters. Find the perimeter.\nOptions:\nA)18cm\nB)22cm\nC)20cm\nD)30cm\nE)28cm",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The per im et er of the re ct ang le is the le ng th of the re ct ang le times the width of the re ct ang le = 8 ce nt im et ers times 3 ce nt im et ers = 2 8 ce nt im et ers = 2 8 ce nt im et ers = 2 8 ce nt im et ers = 2 8 ce nt im et ers = 2 8 ce nt im et ers = 2 8 ce nt im et ers = 2 8 ce nt im ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000073",
+    "question": "Suppose you want to arrange your English, Hindi, Mathematics, History, Geography and Science books on a shelf. In how many ways can you do it ?\nOptions:\nA)520\nB)720\nC)920\nD)None\nE)Cannot be determined",
+    "gold": "B",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000074",
+    "question": "A straight picket fence is composed of x pickets each of which is 1/2 inch wide. If there are 6 inches of space between each pair of pickets, which of the following represents the length of fence in feet?\nOptions:\nA)13x/2\nB)13x/2 - 6\nC)13x/24\nD)(13x+1)/24\nE)(13x-12)/24",
+    "gold": "E",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000075",
+    "question": "A ship went on a voyage. After it had traveled 180 miles a plane started with 10 times the speed of the ship. Find the distance when they meet from starting point.\nOptions:\nA)238\nB)289\nC)200\nD)287\nE)187",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000076",
+    "question": "In a large forest, 300 deer were caught, tagged, and returned during 2001. During 2002, 500 deer were caught at random, of which only 20 had tags from the previous year. If the percent of deer in the forest that had tags during the second year and were caught in the 500 deer sample is representative of the percent of the total deer population in the forest with tags, what is the total deer population in the forest (assuming no change in population between 2001 and 2002)?\nOptions:\nA)300\nB)500\nC)5000\nD)6000\nE)7500",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The per ce nt of de er in the 5 0 0 de er sample is re pr es ent at ive of the per ce nt of the total de er pop ul at ion in the fore st ( ass um ing no ch an ge in pop ul at ion bet we en 2 0 0 1 and 2 0 0 2 )? The per ce nt of de er in the 5 0 0 de er sample is re pr es ent at ive of the per ce nt",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000077",
+    "question": "In a railway station, there are two trains going. One in the harbor line and one in the main line, each having a frequency of 10 minutes. The main line service starts at 5 o'clock and the harbor line starts at 5.02 A.M. A man goes to the station every day to catch the first train that comes. What is the probability of the man catching the first train?\nOptions:\nA)0.9\nB)0.8\nC)0.6\nD)0.65\nE)1.5",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000078",
+    "question": "The average (arithmetic mean) of the weight of 10 vehicles is 12.2 tons. The average weight of the group of vehicles increased by 2.6 tons after a new heavy duty truck was added to the group? What is the weight in tons of the heavy duty truck?\nOptions:\nA)40.8\nB)41.6\nC)42.2\nD)43.5\nE)44.8",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The av er age ( ar ith met ic me an ) of the we ight of 1 0 ve hi cl es is 1 2 . 2 to ns . The av er age we ight of the group of ve hi cl es in cre as ed by 2 . 6 to ns af ter a new he avy du ty tr uck was add ed to the group ? The av er age we ight of the he avy du ty tr uck is 4 1 . 6 to ns The av",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000079",
+    "question": "Boomtown urban planners expect the city\u2019s population to increase by 10% per year over the next two years. If that projection were to come true, the population two years from now would be exactly double the population of one year ago. Which of the following is closest to the percent population increase in Boomtown over the last year?\nOptions:\nA)20%\nB)40%\nC)50%\nD)65%\nE)75%",
+    "gold": "D",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000080",
+    "question": "Arjun and Sajal are friends, each has some money. If Arun gives $30 to Sajal, the Sajal will have twice the money left with Arjun. But, if Sajal gives $10 to Arjun, Arjun will have thrice as much as is left with Sajal. How much money does each have?\nOptions:\nA)62, 35\nB)62, 34\nC)34, 62\nD)42, 62\nE)62, 42",
+    "gold": "B",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000081",
+    "question": "Julie\u2019s yard is rectangular. One side of the yard is 100 feet wide. The total area of the yard is 3,000 square feet. What is the length of the other side of the yard?\nOptions:\nA)30 feet\nB)20 feet\nC)10 feet\nD)50 feet\nE)60 feet",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The le ng th of the ot her side of the yard is the le ng th of the yard - the le ng th of the yard = 1 0 0 - 3 , 0 0 0 = 1 0 0 - 6 , 0 0 0 = 1 0 0 - 3 , 0 0 0 = 1 0 0 - 3 , 0 0 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 = 1 0 =",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000082",
+    "question": "The greatest common factor of two positive integers is 11. The least common multiple of these two integers is 7700. If one of the integers is 350, what is the other?\nOptions:\nA)242\nB)308\nC)352\nD)412\nE)456",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The gr ea te st comm on fa ct or of 2 and 3 is 1 1 . The le ast comm on mult ip le of 2 and 3 is 7 7 0 0 . The le ast comm on mult ip le of 3 and 5 is 7 7 0 0 . The le ast comm on mult ip le of 3 and 7 is 7 7 0 0 . The le ast comm on mult ip le of 3 and 7 is 7 7 0 0 . The le ast comm on mult ip le o",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000083",
+    "question": "A square piece of cloth is trimmed by 4 feet on one edge to form a rectangular piece, which is then cut diagonally in half to create two triangles. If the area of each of triangle is 70 square feet, what was the perimeter (in feet) of the original piece of square cloth?\nOptions:\nA)56\nB)58\nC)60\nD)62\nE)64",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The per im et er of the or ig in al piece of sq ua re cl oth is the sum of the per im et ers of the tr ia ng les = 7 0 + 7 0 + 7 0 + 7 0 = 7 0 + 7 0 + 7 0 + 7 0 = 7 0 + 7 0 + 7 0 + 7 0 = 7 0 + 7 0 + 7 0 + 7 0 = 7 0 + 7 0 + 7 0 + 7 0 = 7 0 + 7 0 + 7 0 + 7 0 = 7 0 + 7 0 + 7 0 + 7 0 = 7 0 + 7 0 + 7 0 +",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000084",
+    "question": "The length of the ribbon was originally 30 cm. It was reduced in the ratio 5 : 3. What is its length now?\nOptions:\nA)18\nB)30\nC)6\nD)15\nE)12",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The le ng th of the ri bb on was or ig in al ly 3 0 cm . The le ng th of the ri bb on was or ig in al ly 3 0 cm . The le ng th of the ri bb on was or ig in al ly 3 0 cm . The le ng th of the ri bb on was or ig in al ly 3 0 cm . The le ng th of the ri bb on was or ig in al ly 3 0 cm . The le ng th of",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000085",
+    "question": "M = abc is a three digit number and N = cba, if M > N and M - N + 396c = 990. Then how many values of M are more than 300.\nOptions:\nA)20\nB)30\nC)40\nD)200\nE)None",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "M = abc is a th ree dig it num ber and N = c ba , if M > N and M - N + 3 9 6 c = 9 9 0 . Th en how ma ny val ues of M are more th an 3 0 0 = 9 9 0 - 3 9 6 c = 9 6 1 = 2 0 = A S ol ut ion S ol ut ion S ol ut ion S ol ut ion S ol ut ion S ol ut ion S ol ut ion S ol ut ion S ol ut ion S ol ut ion S ol ",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000086",
+    "question": "there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school?\nOptions:\nA)550\nB)570\nC)600\nD)700\nE)none of these",
+    "gold": "E",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000087",
+    "question": "If Raj was one-third as old as Rahim 5 years back and Raj is 17 years old now, How old is Rahim now?\nOptions:\nA)37\nB)41\nC)40\nD)42\nE)43",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "R aj was one - th ird as old as R ah im 5 ye ars back and R aj is 1 7 ye ars old now , So R aj is 1 7 + 5 = 2 2 and R ah im is 1 7 - 5 = 1 2 and R ah im is 1 2 + 1 7 = 2 9 and R ah im is 2 9 + 1 7 = 4 6 and R ah im is 4 6 + 1 7 = 6 3 and R ah im is 6 3 + 1 7 = 7 0 and R ah im is 7 0 + 1 7 = 8 7 and ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000088",
+    "question": "A cow is tethered in the middle of a field with a 14 feet long rope. If the cow grazes 10 sq.ft. per day, then approximately what time will be taken by the cow to graze the whole field?\nOptions:\nA)51 days\nB)61 days\nC)71 days\nD)81 days\nE)91 days",
+    "gold": "B",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000089",
+    "question": "A book was sold for Rs 27.50 with a profit of 10%. If it were sold for Rs. 25.75, then would have been percentage of profit and loss ?\nOptions:\nA)2% Profit\nB)3% Profit\nC)2% Loss\nD)3% Loss\nE)4% Loss",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The pr of it is 1 0 %. The an sw er is : 2 %",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000090",
+    "question": "In how many ways can a teacher in a kindergarten school arrange a group of 3 children (Susan, Tim and Zen) on 3 identical chairs in a straight line so that Susan is on the left of Tim?\nOptions:\nA)7\nB)3\nC)2\nD)1\nE)6",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000091",
+    "question": "The telephone bill of a certain establishment is party fixed and partly varies as the number of calls consumed. When in a certain month 540 calls made the bill is Rs.1800. In another month 620 calls are consumed then the bill becomes Rs.2040. In another month 500 units are consumed due to more holidays. The bill for that month would be :\nOptions:\nA)Rs.1560\nB)Rs.1680\nC)Rs.1840\nD)Rs.1950\nE)Rs.1690",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The bi ll for th at mon th is : The bi ll of a cer tain est ab li sh ment is par ty fix ed and part ly var ies as the num ber of cal ls con sum ed . Wh en in a cer tain mon th 5 4 0 cal ls ma de the bi ll is Rs . 1 8 0 0 . In an ot her mon th 6 2 0 cal ls are con sum ed th en the bi ll be com es Rs ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000092",
+    "question": "Two balls A and B rotate along a circular track. Ball A makes 2 full rotations in 26 minutes. Ball B makes 5 full rotation in 35 minutes. If they start rotating now from the same point, when will they be at the same starting point again?\nOptions:\nA)1 hour and 31 minutes\nB)2 hour and 31 minutes\nC)3 hour and 31 minutes\nD)4 hour and 31 minutes\nE)5 hour and 31 minutes",
+    "gold": "A",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000093",
+    "question": "A bookshelf contains 45 books, 30 of which are hardcover and 20 of which are fiction. What is the maximum number of books that are both hardcover and fiction?\nOptions:\nA)10\nB)15\nC)18\nD)20\nE)30",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The max im um num ber of books th at are bo th ha rd co ver and fi ct ion is 1 8 . The an sw er is : 1 8 .",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000094",
+    "question": "A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?\nOptions:\nA)15\nB)30\nC)45\nD)60\nE)75",
+    "gold": "A",
+    "pred": "E",
+    "generated_text": "The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000095",
+    "question": "A number of friends decided to go on a picnic and planned to spend Rs. 96 on eatables. Four of them, however, did not turn up. As a consequence, the remaining ones had to contribute Rs. 4 extra, each. The number of those who attended the picnic was\nOptions:\nA)8\nB)12\nC)16\nD)24\nE)25",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000096",
+    "question": "A wire in the shape of rectangle of length 27 cm and breadth 17 cm is rebent to form a square. What will be the measure of each side?\nOptions:\nA)9\nB)11\nC)22\nD)25\nE)31",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The me as ure of ea ch side is the me as ure of the re ct ang le of le ng th 2 7 cm and br ead th 1 7 cm = 2 7 cm * 1 7 cm = 2 7 cm * 2 7 cm = 2 7 cm * 2 7 cm = 2 7 cm * 2 7 cm = 2 7 cm * 2 7 cm = 2 7 cm * 2 7 cm = 2 7 cm * 2 7 cm = 2 7 cm * 2 7 cm = 2 7 cm * 2 7 cm = 2 7 cm * 2 7 cm = 2 7 cm * 2 7 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000097",
+    "question": "A man divides Rs 8600 among 5 sons, 4 daughters and 2 nephews. If each daughter receives four times as much as each nephew, and each son receives five as much as each nephew. How much does each daughter receive ?\nOptions:\nA)Rs 400\nB)Rs 500\nC)Rs 600\nD)Rs 700\nE)Rs 800",
+    "gold": "E",
+    "pred": "A",
+    "generated_text": "A mu ch as ea ch ne ph ew is 8 6 0 0 / 4 = 8 6 0 0 / 5 = 8 6 0 0 / 5 + 8 6 0 0 / 4 = 8 6 0 0 / 5 + 8 6 0 0 / 4 = 8 6 0 0 / 5 + 8 6 0 0 / 4 = 8 6 0 0 / 5 + 8 6 0 0 / 4 = 8 6 0 0 / 5 + 8 6 0 0 / 4 = 8 6 0 0 / 5 + 8 6 0 0 / 4 = 8 6 0 0 / 5 + 8 6 0 0 / 4 = 8 6 0 0 / 5 + 8 6 0 0 / 4 = 8 6 0 0 / 5 + 8 6 0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000098",
+    "question": "Silu and Meenu were walking on the road. Silu said, \"I weigh 51 Kgs. How much do you weigh?\" Meenu replied that she wouldn't reveal her weight directly as she is overweight. But she said, \"I weigh 29 Kgs plus half of my weight. \"How much does Meenu weigh?\nOptions:\nA)12\nB)28\nC)27\nD)58\nE)91",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "Me enu we igh 2 9 K gs pl us half of her we ight = 2 9 K gs pl us 2 9 K gs = 5 8 K gs = 5 8 K gs + 2 9 K gs = 8 7 K gs = 8 7 K gs + half of her we ight = 8 7 K gs + 2 9 K gs = 1 1 6 K gs = 1 1 6 K gs + 5 1 K gs = 1 6 7 K gs = 1 6 7 K gs + half of her we ight = 1 6 7 K gs + 2 9 K gs = 3 6 6 K gs = 3 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000099",
+    "question": "Roy was suffering from severe headaches. He went to see his doctor and the doctor gave him 5 tablets asking him to take one tablet every 15 minutes. How much time will it take Roy to consume all the 5 tablets?\nOptions:\nA)45 Min\nB)75 Min\nC)90 Min\nD)120 Min\nE)60 Min",
+    "gold": "E",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000100",
+    "question": "In a bag of red and green sweets, the ratio of red sweets to green sweets is 3:4. If the bag contains 120 green sweets, how many red sweets are there?\nOptions:\nA)90\nB)80\nC)95\nD)100\nE)85",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The rat io of red sw ee ts to gr een sw ee ts is 3 : 4 . The an sw er is : 9 0 The an sw er is : 9 0 The an sw er is : 9 0 The an sw er is : 9 0 The an sw er is : 9 0 The an sw er is : 9 0 The an sw er is : 9 0 The an sw er is : 9 0 The an sw er is : 9 0 The an sw er is : 9 0 The an sw er is : 9 0 T",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000101",
+    "question": "A club consists of members whose ages are in A.P. The common difference being 3 months. If the youngest member of the club is just 7 years old and the sum of the ages of all the members is 250, then number of members in the club are :\nOptions:\nA)18\nB)20\nC)25\nD)26\nE)27",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The you ng est mem ber is just 7 ye ars old and the sum of the ag es of all the mem bers is 2 5 0 th en num ber of mem bers in the cl ub are : 2 5 0 - 7 = 2 4 3 The an sw er is : 2 4 3",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000102",
+    "question": "M men agree to purchase a gift for Rs. D. If 3 men drop out how much more will each have to contribute towards the purchase of the gift?\nOptions:\nA)D/(M-3)\nB)MD/3\nC)M/(D-3)\nD)3D/(M2-3M)\nE)None of these",
+    "gold": "D",
+    "pred": "D",
+    "generated_text": "A The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : D The an sw er is : ",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000103",
+    "question": "At what price should the Karan mark a sewing machine that costs him Rs. 1200/- so that even after offering a 20% discount, he makes 20% profit?\nOptions:\nA)1,879\nB)1,875\nC)1,876\nD)1,872\nE)1,800",
+    "gold": "E",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000104",
+    "question": "Train \u2018A\u2019 leaves Mumbai Central for Lucknow at 11 am, running at the speed of 40 kmph. Train \u2018B\u2019 leaves Mumbai Central for Lucknow by the same route at 2 pm on the same day, running at the speed of 72 kmph. At what time will the two trains meet each other?\nOptions:\nA)12 am on the next day\nB)5 am on the next day\nC)5 pm on the next day\nD)2 pm on the next day\nE)None of these",
+    "gold": "A",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000105",
+    "question": "Mark told John \"If you give me half your money I will have Rs.75. John said, \"if you give me one third of your money, I will have Rs.75/-. How much money did John have ?\nOptions:\nA)22\nB)60\nC)28\nD)26\nE)18",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000106",
+    "question": "The number of water lilies on a certain lake doubles every two days. If there is exactly one water lily on the lake, it takes 60 days for the lake to be fully covered with water lilies. In how many days will the lake be fully covered with lilies, if initially there were 64 water lilies on it?\nOptions:\nA)15\nB)28\nC)30\nD)53\nE)59",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000107",
+    "question": "x men working x hours per day can do x units of a work in x days. How much work can be completed by y men working y hours per day in y days?\nOptions:\nA)x2/y2 units\nB)y3/x2 units\nC)x3/y2 units\nD)y2/x2 units\nE)None of these",
+    "gold": "B",
+    "pred": "E",
+    "generated_text": "The an sw er is : E .",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000108",
+    "question": "ABCDE is a regular pentagon with F at its center. How many different quadrilaterals can be formed by joining 4 of the points A,B,C,D,E and F?\nOptions:\nA)12\nB)10\nC)5\nD)15\nE)20",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 5",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000109",
+    "question": "Points A, B, C, D lie in this order on the circumference of a circle. Minor arc AC is 160\u00b0, and minor arc BD is 150\u00b0. If B bisects minor arc AC, then what is the measure of minor arc AD?\nOptions:\nA)80\u00b0\nB)130\u00b0\nC)140\u00b0\nD)160\u00b0\nE)220\u00b0",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 4 0 \u00b0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000110",
+    "question": "If 75 percent of the employees of a certain company take a winter vacation, 40 percent take a winter and a summer vacation, and 20 percent take neither a winter nor a summer vacation, what Q percent of the employees take a summer vacation but not a winter vacation?\nOptions:\nA)5%\nB)15%\nC)25%\nD)35%\nE)45%",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000111",
+    "question": "The cross-section of a canal is shaped like a trapezium. If the canal is 10 m wide at the top and 6 m wide at the bottom and the area of cross-section is 640 square meters, the depth of cannel is?\nOptions:\nA)26\nB)28\nC)21\nD)80\nE)23",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The cr oss - se ct ion of a can al is sh ap ed li ke a tr ap ez ium . The ar ea of cr oss - se ct ion is 6 4 0 sq ua re me ters . The ar ea of cr oss - se ct ion is 6 4 0 sq ua re me ters and the ar ea of cr oss - se ct ion is 6 4 0 sq ua re me ters and the ar ea of cr oss - se ct ion is 6 4 0 sq ua",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000112",
+    "question": "During one season, a tennis team won 20 matches and lost 30% of their matches. What was the number of matches that the team lost?\nOptions:\nA)70\nB)30\nC)3\nD)7\nE)5",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The num ber of mat ch es th at the te am lo st is 2 0 - 3 0 = 1 0 . The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000113",
+    "question": "A point on the edge of a fan blade that is rotating in a plane 10 centimeters from the center of the fan. What is the distance traveled, in centimeters, by this point after 30 seconds when the fan runs at the rate of 300 revolutions per minutes?\nOptions:\nA)750pi\nB)1500pi\nC)1875pi\nD)3000pi\nE)7500pi",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The dis ta nce tr av eled , in ce nt im et ers , by th is point af ter 3 0 se con ds wh en the fan ru ns at the ra te of 3 0 0 re vol ut ions per min ut es ? The an sw er is : A The dis ta nce tr av eled , in ce nt im et ers , by th is point af ter 3 0 se con ds wh en the fan ru ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000114",
+    "question": "If n is such that 36 \u2264 n \u2264 72, then x = (n2 + 2\u221an(n + 4) + 16) / (n+ 4\u221an+ 4) satisfies\nOptions:\nA)20 < x < 54\nB)23 < x < 58\nC)25 < x < 64\nD)28 < x < 60\nE)None of these",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "A The an sw er is : 2 0 < x < 5 4 = ( 2 0 ( 2 0 ) + 2 0 ( 2 0 ) \u221a 2 0 ( 2 0 + 4 ) + 1 6 ) / ( 2 0 + 4 \u221a 2 0 + 4 ) = 2 0 ( 2 0 + 4 \u221a 2 0 + 4 ) = 2 0 ( 2 0 + 4 \u221a 2 0 + 4 ) = 2 0 ( 2 0 + 4 \u221a 2 0 + 4 ) = 2 0 ( 2 0 + 4 \u221a 2 0 + 4 ) = 2 0 ( 2 0 + 4 \u221a 2 0 + 4 ) = 2 0 ( 2 0 + 4 \u221a 2 0 + 4 ) = 2 0 ( 2 0 + 4 \u221a ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000115",
+    "question": "At its maximum speed, a space shuttle can travel 700m high in 40 seconds. It will also take 5 seconds to pass a point. What then is the length of the space shuttle?\nOptions:\nA)50 m\nB)75 m\nC)100 m\nD)125 m\nE)150 m",
+    "gold": "C",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000116",
+    "question": "A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join?\nOptions:\nA)2 months\nB)4 months\nC)23 months\nD)24 months\nE)84 months",
+    "gold": "B",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000117",
+    "question": "A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper?\nOptions:\nA)8.75\nB)8.79\nC)8.75\nD)8.71\nE)8.72",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 8 . 7 5",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000118",
+    "question": "An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined?\nOptions:\nA)M + N / 8\nB)2M + N / 8\nC)M + N / 4\nD)M + 3N / 8\nE)M + N / 5",
+    "gold": "A",
+    "pred": "E",
+    "generated_text": "The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000119",
+    "question": "8 man work for 6 days to complete a work. How many men are required to complete same work in 1/2 day.\nOptions:\nA)93 men\nB)94 men\nC)95 men\nD)96 men\nE)97 men",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "8 man work for 6 da ys to com ple te a work . The an sw er is : 9 3 men",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000120",
+    "question": "64 boys and 40 girls form a group for social work. During their membership drive, the same number of boys and girls joined the group. How many members does the group have now, if the ratio of boys to girls is 4:3?\nOptions:\nA)277\nB)288\nC)200\nD)277\nE)168",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 2 7 7",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000121",
+    "question": "A cyclist travels at 12 miles per hour. How many minutes will it take to travel 48 miles?\nOptions:\nA)1\nB)240\nC)30\nD)60\nE)120",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "1 2 mi les per ho ur = 1 2 mi les per ho ur = 1 2 mi les per 1 ho ur = 1 2 mi les per 1 ho ur = 1 2 mi les per 1 ho ur = 1 2 mi les per 1 ho ur = 1 2 mi les per 1 ho ur = 1 2 mi les per 1 ho ur = 1 2 mi les per 1 ho ur = 1 2 mi les per 1 ho ur = 1 2 mi les per 1 ho ur = 1 2 mi les per 1 ho ur = 1 2 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000122",
+    "question": "Kevin drove from A to B at a constant speed of 70 mph. Once he reached B, he turned right around with pause, and returned to A at a constant speed of 90 mph. Exactly 3 hours before the end of his trip, he was still approaching B, only 70 miles away from it. What is the distance between A and B?\nOptions:\nA)180\nB)90\nC)270\nD)360\nE)None of the above",
+    "gold": "A",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000123",
+    "question": "30 is subtracted from a number, it is reduced to its one third. What is the value of 50% of that number?\nOptions:\nA)22.5\nB)84\nC)21\nD)24\nE)25",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "3 0 is sub tr act ed fr om a num ber , it is re du ced to its one th ird . 3 0 is 3 0 - 3 0 = 2 0 = 2 0 / 3 = 2 0 / 3 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = 2 0 / 1 = ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000124",
+    "question": "If a man rows at the rate of 4 kmph in still water and his rate against the current is 2 kmph, then the man's rate along the current is:\nOptions:\nA)15 kmph\nB)6 kmph\nC)12 kmph\nD)14 kmph\nE)6 kmph",
+    "gold": "E",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000125",
+    "question": "The sum of the digits of a three digit number is 17, and the sum of the squares of its digits is 109. If we subtract 495 from the number, we shall get a number consisting of the same digits written in the reverse order. Find the number.\nOptions:\nA)368\nB)377\nC)288\nD)997\nE)112",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000126",
+    "question": "X and Y are two alloys which were made by mixing zinc and copper in the ratio 6:9 and 7:11, respectively. If 40 grams of alloy X and 60 grams of alloy Y are melted and mixed to form alloy Z, what is the ratio of zinc and copper in the alloy Z ?\nOptions:\nA)69:91\nB)59:91\nC)59:90\nD)59:91\nE)69:101",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The rat io of zi nc and co pp er in the all oy Z is the rat io of 4 0 gr ams of all oy X and 6 0 gr ams of all oy Y to the rat io 6 : 9 and 7 : 1 1 of all oy Z is the rat io 6 9 : 9 1 to the rat io 6 : 9 of all oy Z = 6 9 : 9 1 The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000127",
+    "question": "The nefarious bandit Hoopsmot decides to go in with his criminal partner Smolapon to purchase a number of senators. Hoopsmot contributes $16,000 to their bribery pool, and Smolapon contributes just $4,000. Their total allows them to influence 30 senators. How many senators of these can be considered Hoopsmot's?\nOptions:\nA)18\nB)20\nC)22\nD)24\nE)26",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The ne fa ri ous band it H oop sm ot de ci des to go in with his cri min al part ner Sm ol ap on to pur ch ase a num ber of se na to rs . H oop sm ot con tr ib ut es $ 1 6 , 0 0 0 to the ir br ib ery po ol , and Sm ol ap on con tr ib ut es $ 4 , 0 0 0 . The ir total all ows th em to in fl ue nce 3 0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000128",
+    "question": "The difference between the squares of two numbers is 256000 and the sum of the numbers is 1000. The numbers are\nOptions:\nA)600, 400\nB)628, 372\nC)640, 360\nD)None of these\nE)Cannot be determined",
+    "gold": "B",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000129",
+    "question": "An astronaut weighing 211 pounds on Earth would weigh 182 pounds on Venus. The weight of the astronaut on Venus would be approximately what percent of the astronaut\u2019s weight on Earth?\nOptions:\nA)50%\nB)60%\nC)70%\nD)86%\nE)90%",
+    "gold": "D",
+    "pred": "E",
+    "generated_text": "The as tr on aut we igh ing 2 1 1 po un ds on E ar th w ou ld we igh 1 8 2 po un ds on V en us . The we ight of the as tr on aut on V en us w ou ld be ap pr ox im ate ly wh at per ce nt of the as tr on aut \u2019 s we ight on E ar th ? The as tr on aut we igh ing 2 1 1 po un ds on E ar th w ou ld we igh ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000130",
+    "question": "A man walks at 5 kmph for 6 hrs and at 4 kmph for 12 hrs. His average speed is\nOptions:\nA)4 1/3 km/h\nB)7 2/3 km/h\nC)9 \u00bd km/h\nD)8 km/h\nE)81 km/h",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 8 km / h",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000131",
+    "question": "[(272 - 32) (124 + 176)] / (17 x 15 - 15) = ?\nOptions:\nA)0\nB)2.25\nC)300\nD)400\nE)None of these",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000132",
+    "question": "Everyone in the family earns money each month. If the total income of a family per month is $9000 and the median income is $3000, how many members are there in the family?\nOptions:\nA)2\nB)3\nC)4\nD)5\nE)6",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The med ian in come is $ 3 0 0 0 and the total in come is $ 9 0 0 0 = $ 6 0 0 0 - $ 3 0 0 0 = $ 3 0 0 0 - $ 9 0 0 0 = $ 6 0 0 0 - $ 6 0 0 0 = $ 3 0 0 0 - $ 3 0 0 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ 0 = $ ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000133",
+    "question": "The bus fare of one adult is Rs. 140 from Ranchi to Patna and bus fare of a child is half the fare of one adult between the same places. What is the total bus fare of 4 adults and 3 children between same places?\nOptions:\nA)Rs. 666\nB)Rs. 670\nC)Rs. 700\nD)Rs. 570\nE)Rs. 770",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The bus fa re of 4 ad ul ts and 3 ch ild ren is half the bus fa re of one ad ult = half 1 4 0 = 7 0 0 The bus fa re of 4 ad ul ts and 3 ch ild ren is half 7 0 0 = 3 5 0 The bus fa re of 4 ad ul ts and 3 ch ild ren is half 3 5 0 = 1 7 5 The bus fa re of 4 ad ul ts and 3 ch ild ren is half 1 7 5 = 8 7",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000134",
+    "question": "An organization decided to raise Rs. 6 lakh by collecting equal contribution from each of its employees. If each of them had contributed Rs. 60 extra, the contribution would have been Rs. 6.24 lakh. How many employees are there in that organization?\nOptions:\nA)300\nB)200\nC)400\nD)100\nE)500",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The con tr ib ut ion w ou ld ha ve be en Rs . 6 . 2 4 la kh . The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000135",
+    "question": "If there are 5,000 voters out of which 20% are not eligible to vote and there are two candidates contesting. The winning candidate won by 15% of the votes. What is the total number of votes he got ?\nOptions:\nA)3267\nB)2678\nC)2797\nD)2300\nE)2781",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000136",
+    "question": "For bringing each copper coin from the bottom of a river, a coin-diver gets 20 cents, and for each brass coin she gets 25 cents. If after one dive, she got $3.40. What is the minimum number of copper coins that she brought?\nOptions:\nA)4\nB)3\nC)2\nD)1\nE)0",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000137",
+    "question": "Ram and Krishna start from A and B, respectively, at the same time and travel towards each other at constant speeds of 20m/s and 40m/s, respectively, along the same route. Ram meets Krishna at point C on the road after 10 seconds. Find the total distance between A to B.\nOptions:\nA)700 meters\nB)1000 meters\nC)700 kilometers\nD)555 meters\nE)600 meters",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 7 0 0 me ters",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000138",
+    "question": "Car \u2018X\u2019 covers a distance of 320 kms in 8 hours and car \u2018Y\u2019 covers a distance of 415 kms in 5 hrs. What is the difference in the speed of the two cars?\nOptions:\nA)42kms/hr\nB)41km/hr\nC)43kms/hr\nD)45kms/hr\nE)None of these",
+    "gold": "C",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000139",
+    "question": "Winson runs from his home to his school at an average speed of 10 miles/hr, and then walks home along the same route at an average speed of 5 miles/hr. If the whole journey took one hour, how many miles is his home from his school?\nOptions:\nA)9\nB)6\nC)4\nD)3\nE)2",
+    "gold": "E",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000140",
+    "question": "A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day?\nOptions:\nA)80\nB)120\nC)240\nD)320\nE)360",
+    "gold": "E",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000141",
+    "question": "A flagstaff 17.5 metre high casts a shadow of length 40.25 metre. The height of building, which casts a shadow of length 28.75 metre under similar conditions will be :\nOptions:\nA)12 metre\nB)12.5 metre\nC)13.5 metre\nD)14 metre\nE)15 metre",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The he ight of build ing , wh ich cas ts a sh ad ow of le ng th 2 8 . 7 5 met re und er sim il ar cond it ions will be : The he ight of build ing , wh ich cas ts a sh ad ow of le ng th 2 8 . 7 5 met re und er sim il ar cond it ons will be : The he ight of build ing , wh ich cas ts a sh ad ow of le n",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000142",
+    "question": "Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other?\nOptions:\nA)3 hours\nB)5 hours\nC)6 hours\nD)4 hours\nE)7 hours",
+    "gold": "B",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000143",
+    "question": "The events A and B are independent. The probability that event A occurs is 0.6, and the probability that at least one of the events A or B occurs is 0.96. What is the probability that event B occurs?\nOptions:\nA)0.5\nB)0.6\nC)0.7\nD)0.8\nE)0.9",
+    "gold": "E",
+    "pred": "B",
+    "generated_text": "The pr ob ab il ity th at ev ent B oc curs is 0 . 9 6 = 0 . 9 6 * 0 . 6 = 0 . 6 * 0 . 6 = 0 . 3 6 = 0 . 3 6 * 0 . 5 = 0 . 1 8 = 0 . 1 8 * 0 . 5 = 0 . 0 9 = 0 . 0 9 * 0 . 5 = 0 . 0 4 = 0 . 0 4 * 0 . 5 = 0 . 0 0 = 0 . 0 0 * 0 . 5 = 0 = 0 * 0 . 5 = 0 = 0 * 0 . 5 = 0 = 0 * 0 . 5 = 0 = 0 * 0 . 5 = 0 = 0 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000144",
+    "question": "The ratio of the volumes of a cube to that of the sphere which will fit inside the cube is?\nOptions:\nA)2: \u03c0\nB)7:2\nC)8:2\nD)6: \u03c0\nE)8:3",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The rat io of the vol um es of a cu be to th at of the sp he re wh ich will fit ins ide the cu be is the rat io of the vol um es of a cu be to the vol um es of the sp he re is the rat io of the vol um es of a cu be to the vol um es of the sp he re is the rat io of the vol um es of a cu be to the vol",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000145",
+    "question": "My wall contains 8 red colour ties, 13 violet colour ties,10 blue colour ties, 5 pink colour ties, 4 green colour ties. If electricity is gone and I want at least two ties of same colour then how many ties I should take out from my rack?\nOptions:\nA)2\nB)3\nC)4\nD)5\nE)6",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 2",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000146",
+    "question": "Find 25/12*5\nOptions:\nA)2.5498\nB)0.4167\nC)3.3987\nD)8.5497\nE)5.6312",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "2 5 / 1 2 * 5 = 2 5 / 1 2 * 5 * 1 2 = 2 5 / 1 2 * 5 * 1 2 = 2 5 / 1 2 * 5 * 1 2 * 1 2 = 2 5 / 1 2 * 5 * 1 2 * 1 2 = 2 5 / 1 2 * 5 * 1 2 * 1 2 * 1 2 = 2 5 / 1 2 * 5 * 1 2 * 1 2 * 1 2 = 2 5 / 1 2 * 5 * 1 2 * 1 2 * 1 2 * 1 2 = 2 5 / 1 2 * 5 * 1 2 * 1 2 * 1 2 * 1 2 = 2 5 / 1 2 * 5 * 1 2 * 1 2 * 1 2 * 1 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000147",
+    "question": "The value of log2 4 is:\nOptions:\nA)2\nB)4\nC)6\nD)8\nE)12",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er is : The an sw er",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000148",
+    "question": "Calculate the percentage gain of a merchant who purchased 90 kg of oranges for Rs. 450 and sold the whole lot at the rate of Rs. 7.50 per kg.\nOptions:\nA)50 %\nB)60 %\nC)55 %\nD)70 %\nE)58%",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The per ce nt age ga in of 9 0 kg is 5 0 % = 9 0 / 1 0 0 = 5 0 / 9 0 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9 = 5 / 9",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000149",
+    "question": "A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?\nOptions:\nA)1 hr 23 min\nB)1 hr 15 min\nC)1 hr 8 min\nD)56 min\nE)55 min",
+    "gold": "D",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000150",
+    "question": "Janice bikes at 10 miles per hour, while Jennie bikes at 20. How long until they have collectively biked 1 mile?\nOptions:\nA)1 minute\nB)2 minutes\nC)3 minutes\nD)4 minutes\nE)5 minutes",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "1 mi le = 1 0 mi les = 1 0 mi les / 1 mi le = 1 mi le / 1 0 mi les = 1 mi le / 1 0 mi les = 1 mi le / 1 0 mi les = 1 mi le / 1 0 mi les = 1 mi le / 1 0 mi les = 1 mi le / 1 0 mi les = 1 mi le / 1 0 mi les = 1 mi le / 1 0 mi les = 1 mi le / 1 0 mi les = 1 mi le / 1 0 mi les = 1 mi le / 1 0 mi les = 1",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000151",
+    "question": "In an exam, a candidate secured 504 marks of the maximum mark of M. If the maximum mark M is converted into 800 marks, he would have secured 420 marks. What is the value of M?\nOptions:\nA)278\nB)2890\nC)270\nD)2702\nE)960",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The max im um mark M is con vert ed in to 8 0 0 mar ks by mult ip lying the max im um mark M by 8 0 0 = 5 0 4 * 8 0 0 = 4 2 0 mar ks The an sw er is : 4 2 0 mar ks",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000152",
+    "question": "If Jill needed to buy 10 bottles of soda for a party in which 8 people attended, how many bottles of soda will she need to buy for a party in which 12 people are attending?\nOptions:\nA)6\nB)8\nC)10\nD)12\nE)14",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 2",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000153",
+    "question": "Two ants are standing side-by-side. One ant, which is 4 inches tall, casts a shadow that is 10 inches long. The other ant is 6 inches tall. Compute, in inches, the length of the shadow that the taller ant casts.\nOptions:\nA)36\nB)28\nC)42\nD)15\nE)20",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The le ng th of the sh ad ow th at the ta ll er ant cas ts is 1 0 in ch es lo ng . The le ng th of the sh ad ow th at the ta ll er ant cas ts is 1 0 in ch es lo ng . The le ng th of the sh ad ow th at the ta ll er ant cas ts is 1 0 in ch es lo ng . The le ng th of the sh ad ow th at the ta ll er ant",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000154",
+    "question": "The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:\nOptions:\nA)2.6m\nB)3.9m\nC)4m\nD)4.2m\nE)4.4m",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The he ight of a ro om to its se mi - per im et er is 2 : 5 = 2 : 5 * 2 = 2 : 5 * 2 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : 5 * 5 0 = 2 : ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000155",
+    "question": "The sum of k consecutive integers is 51. If the least integer is -50, then k =\nOptions:\nA)40\nB)62\nC)82\nD)92\nE)102",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : The le ast int eg er is - 5 0 The sum of k con sec ut ive int eg ers is 5 1 The sum of k con sec ut ive int eg ers is 5 1 The sum of k con sec ut ive int eg ers is 5 1 The sum of k con sec ut ive int eg ers is 5 1 The sum of k con sec ut ive int eg ers is 5 1 The sum of k con sec u",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000156",
+    "question": "In a survey of students, each student selected from a list of 10 songs the 2 songs that the student liked best. If each song was selected 5 times, how many students were surveyed?\nOptions:\nA)96\nB)48\nC)32\nD)25\nE)18",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000157",
+    "question": "If one of the roots of the quadratic equation x^2 + mx + 22 = 0 is 1.5, then what is the value of m?\nOptions:\nA)-23.5\nB)-17.5\nC)-10.5\nD)-16.2\nE)Cannot be determined",
+    "gold": "D",
+    "pred": "E",
+    "generated_text": "The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E The an sw er is : E ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000158",
+    "question": "At an election meeting 10 speakers are to address the meeting. The only protocol to be observed is that whenever they speak the pm should speak before the mp and the mp should speak before the mla. In how many ways can the meeting be held?\nOptions:\nA)10!/3\nB)10!/6\nC)10!/2\nD)10!/4\nE)10!/5",
+    "gold": "B",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000159",
+    "question": "Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?\nOptions:\nA)$8\nB)$10\nC)$13.6\nD)$22.9\nE)$40",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "An na is ab le to buy 5 more art ic les for $ 3 0 0 af ter the pr ice of ea ch art ic le de cre as ed by 1 5 %. The new se ll ing pr ice of ea ch art ic le is $ 3 0 0 - 1 5 = 2 9 5 . The new se ll ing pr ice of ea ch art ic le is $ 3 0 0 - 1 5 = 2 9 5 . The new se ll ing pr ice of ea ch art ic le is",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000160",
+    "question": "In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row?\nOptions:\nA)23\nB)27\nC)26\nD)28\nE)29",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 2 6",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000161",
+    "question": "10kg of a mixture contains 30% sand and 70% clay. In order to make the mixture contain equal quantities of clay and sand how much of the mixture is to be removed and replaced with pure sand?\nOptions:\nA)10/7\nB)20/7\nC)30/7\nD)40/7\nE)50/7",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 5 0 / 7 = 5 0 / 7 * 1 0 / 7 = 5 0 / 7 * 3 0 / 7 = 1 5 0 = 1 5 0 / 3 0 = 5 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7 = 5 / 7",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000162",
+    "question": "A man spends 70% of his income. If his income increases by 20%, then what will be his new expenditure?\nOptions:\nA)58.3%\nB)62.5%\nC)63.5%\nD)64.5%\nE)65.5%",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000163",
+    "question": "What is the greatest number of identical bouquets that can be made out of 28 white and 98 red tulips if no flowers are to be left out? (Two bouquets are identical whenever the number of red tulips in the two bouquets is equal and the number of white tulips in the two bouquets is equal.)\nOptions:\nA)4\nB)7\nC)10\nD)14\nE)21",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000164",
+    "question": "Sharon works for 5 hours to earn enough tips to buy an ice cream cake, while Karen works for 4. After how many hours will they be able to buy the cake together?\nOptions:\nA)1 hour\nB)2 hours\nC)3 hours\nD)4 hours\nE)5 hours",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "Sh ar on wor ks for 5 ho urs to ear n en ou gh ti ps to buy an ice cre am ca ke , wh ile K ar en wor ks for 4 ho urs to ear n en ou gh ti ps to buy the ca ke to ge th",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000165",
+    "question": "If x<0, y>0, and |x^3| > |y^2|, which of the following must be true?\nOptions:\nA)x > y\nB)y^2 > x^2\nC)-x^3 < y^2\nD)\u2013x < y\nE)x < \u2013y",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "A is tr ue . B is tr ue . C is tr ue . D is tr ue . E is tr ue . The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000166",
+    "question": "Printer A and Printer B can each print 1\u20442 page per second. How long will it take both printers working together to print 100 pages?\nOptions:\nA)25 seconds\nB)50 seconds\nC)100 seconds\nD)200 seconds\nE)400 seconds",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 0 0 se con ds = 1 0 0 se con ds \u00d7 1 \u2044 2 se con ds = 1 0 0 se con ds \u00d7 1 \u2044 2 se con ds = 1 0 0 se con ds \u00d7 1 \u2044 2 se con ds = 1 0 0 se con ds \u00d7 1 \u2044 2 se con ds = 1 0 0 se con ds \u00d7 1 \u2044 2 se con ds = 1 0 0 se con ds \u00d7 1 \u2044 2 se con ds = 1 0 0 se con ds \u00d7 1 \u2044 2 se con ds = 1 0 0 se con",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000167",
+    "question": "Two ants are moving from their farms towards each other. Ant A is moving at a speed of 9 cm per hour and ant B is moving at a speed of 6 cm per hour. If the farms are 75 cm away from each other, what will be the distance (in cm) that ant A travels until meeting ant B?\nOptions:\nA)45\nB)48\nC)51\nD)54\nE)57",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The dis ta nce ( in cm ) is the dis ta nce ( in cm ) of the far ms - the an ts mo ving t ogether = 7 5 - 9 = 6 5 = 6 5 cm = 6 5 cm - 6 = 5 9 = 5 9 cm = 5 9 cm - 6 = 5 3 = 5 3 cm = 5 3 cm - 9 = 4 4 = 4 4 cm = 4 4 cm - 1 = 3 5 = 3 5 cm = 3 5 cm - 2 = 2 8 = 2 8 cm = 2 8 cm - 1 = 2 7 = 2 7 cm = 2 7 cm -",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000168",
+    "question": "Roberts has a property worth of $1023.65. But in a record his property worth is written as greatest positive even integer less than or equal to his property worth and it is divisible by 100. Find the difference between actual property and recorded property worth?\nOptions:\nA)23.65\nB)1000\nC)35.62\nD)2.65\nE)1023.65",
+    "gold": "A",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000169",
+    "question": "A man spend 810 in buying trouser at Rs 70 each and shirt at 30 each. What will be the ratio of trouser and shirt when the maximum number of trouser is purchased?\nOptions:\nA)9 Trousers\nB)8 Trousers\nC)10 Trousers\nD)7 Trousers\nE)11 Trousers",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000170",
+    "question": "If a subscription for 15 issues of a magazine costs $42.00 and represents a saving of 25 percent of the cover prices, what is the cover price per issue?\nOptions:\nA)$7.73\nB)$6.73\nC)$5.73\nD)$4.73\nE)$3.73",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : $ 4 2 . 0 0 / 2 5 = $ 1 . 5 0 / iss ue = $ 1 . 5 0 / 1 5 = $ 0 . 1 0 / iss ue = $ 0 . 1 0 / 1 5 = $ 0 . 0 1 / iss ue = $ 0 . 0 1 / 1 5 = $ 0 . 0 1 / 1 5 = $ 0 . 0 1 / 1 5 = $ 0 . 0 1 / 1 5 = $ 0 . 0 1 / 1 5 = $ 0 . 0 1 / 1 5 = $ 0 . 0 1 / 1 5 = $ 0 . 0 1 / 1 5 = $ 0 . 0 1 / 1 5 = $",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000171",
+    "question": "Christopher and Jonathan were having bets. They decide that a coin will be flipped twenty times and each time it turns heads, Christopher will give $2 to Jonathan and each time it turns out to be Tails, Jonathan will give 3$ to Christopher. After flipping for twenty times none of the both won or lost any amount. How many times did the coin landed on Heads ?\nOptions:\nA)10\nB)23\nC)16\nD)18\nE)12",
+    "gold": "E",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000172",
+    "question": "Allen starts from X, goes to Y. At the same time Bob starts from Y and goes towards X. Once Allen reaches Y he changes his direction and returns to X. Once Bob reaches X, he changes his direction and returns to Y. Throughout Allen travels at 54 kmph and Bob travels at 78kmph. By the time they meet for the second time, Bob covers 48 km more than Allen. Find the distance between X and Y.\nOptions:\nA)144km\nB)72 km\nC)126km\nD)84 km\nE)48km",
+    "gold": "E",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000173",
+    "question": "Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires?\nOptions:\nA)8%\nB)10%\nC)12.5%\nD)16.7%\nE)25%",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The co st per year of the new ti res is wh at per ce nt gr ea ter th an the co st of rep air ing the cur re nt ti res ? The co st per year of the new ti res is wh at per ce nt gr ea ter th an the co st of rep air ing the cur re nt ti res ? The co st per year of the new ti res is wh at per ce nt gr e",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000174",
+    "question": "A rope 20 meters long is cut into two pieces. If the length of one piece of rope is 3 meters shorter than the length of the other, what is the length, in meters, of the longer piece of rope?\nOptions:\nA)7.5\nB)8.9\nC)9.9\nD)11.5\nE)11.7",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The le ng th of one piece of ro pe is 3 me ters sh or ter th an the le ng th of the ot her , wh at is the le ng th , in me ters , of the lo ng er piece of ro pe ? The le ng th of one piece of ro pe is 3 me ters sh or ter th an the le ng th of the ot her , wh at is the le ng th , in me ters , of the ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000175",
+    "question": "Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity?\nOptions:\nA)$5102\nB)$618\nC)$216\nD)$202\nE)$200",
+    "gold": "B",
+    "pred": "E",
+    "generated_text": "The an sw er is : E",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000176",
+    "question": "Decipher the following multiplication table: M A D B E ------------- M A D R A E ------------- A M I D\nOptions:\nA)9 2 0 0\nB)9 2 0 9\nC)9 2 0 1\nD)9 2 0 7\nE)9 2 2 2",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 9 2 0 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2 0 9 2",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000177",
+    "question": "Sachin was twice as old as Ajay 10 years back. How old is Ajay today if Sachin will be 40 years old in 10 years\nOptions:\nA)18\nB)25\nC)15\nD)20\nE)21",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "A jay will be 4 0 ye ars to day if S ach in will be 4 0 ye ars to day = 4 0 - 1 0 = 3 0 = 3 0 - 2 0 = 1 0 = 1 0 - 1 0 = 0 = 0 - 1 0 = 1 = 1 - 1 0 = 0 = 0 - 1 0 = 0 = 0 - 1 0 = 0 = 0 - 1 0 = 0 = 0 - 1 0 = 0 = 0 - 1 0 = 0 = 0 - 1 0 = 0 = 0 - 1 0 = 0 = 0 - 1 0 = 0 = 0 - 1 0 = 0 = 0 - 1 0 = 0 = 0 - 1 0 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000178",
+    "question": "What will be the cost of gardening 1-metre \u2013 broad boundary around a rectangular plot having perimeter of 340 metres at the rate of 10 per square metre?\nOptions:\nA)3400\nB)1700\nC)3440\nD)Cannot be determined\nE)None of these",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 - met re \u2013 br oad bo und ary ar ou nd a re ct ang ul ar pl ot ha ving per im et er of 3 4 0 me tr es at the ra te of 1 0 per sq ua re met re = 3 4 0 me tr es \u00d7 1 0 per sq ua re met re = 3 4 0 0 The an sw er is : 1 - met re \u2013 br oad bo und ary ar ou nd a re ct ang ul ar pl ot ha v",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000179",
+    "question": "Last year, 34 percent of Ace Book Company's sales revenue came from the sale of novels. Of the remaining revenue, 1/3 was from the sale of biographies. The company's revenue from the sale of novels was approximately, how many times its revenue from the sale of biographies?\nOptions:\nA)1.3\nB)1.5\nC)2.1\nD)2.5\nE)3.1",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 2 . 1",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000180",
+    "question": "A bee bypasses 0.05% of flowers it flies by because it can sense they don't have any nectar in them. How many flowers will the bee fly by to bypass 8 flowers?\nOptions:\nA)2000\nB)4000\nC)8000\nD)16000\nE)32000",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000181",
+    "question": "Fernando purchased a university meal plan that allows him to have a total of 3 lunches and 3 dinners per week. If the cafeteria is closed on weekends and Fernando always goes home for a dinner on Friday nights, how many options does he have to allocate his meals?\nOptions:\nA)5C3*4C3\nB)5C4*4C2\nC)5C2*4C4\nD)5C6*4C5\nE)4C3*4C3",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000182",
+    "question": "What should come in place of the question mark(?) in each of the following questions ? a2 - b2/(a + b)2 (?)=(a - b)2\nOptions:\nA)(a + b)(a - b)\nB)(a - b)2\nC)(a + b)2\nD)a3 + b3\nE)None of these",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "A ) a 2 - b 2 /( a + b ) 2 = a 2 - b 2 /( a + b ) 2 = a 2 - b 2 - b 2 - b 2 - b 2 = a 2 - b 2 - b 2 - b 2 - b 2 = a 2 - b 2 - b 2 - b 2 - b 2 = a 2 - b 2 - b 2 - b 2 - b 2 = a 2 - b 2 - b 2 - b 2 - b 2 = a 2 - b 2 - b 2 - b 2 - b 2 = a 2 - b 2 - b 2 - b 2 - b 2 = a 2 - b 2 - b 2 - b 2 - b 2 = a 2 - ",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000183",
+    "question": "A number is as much greater than 36 as is less than 86. Find the Number.\nOptions:\nA)60\nB)56\nC)51\nD)61\nE)41",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000184",
+    "question": "A certain phone manufacturer ships its products in crates. A crate consists of p pallets, and each pallet holds 1250 phones. If the manufacturer ships 4 crates, how many phones are shipped?\nOptions:\nA)1000p\nB)1500p\nC)2000p\nD)2500p\nE)30000",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The ph on es sh ipp ed are sh ipp ed in cr at es and the ph on es in each cr ate are pa ll ets of 1 2 5 0 ph on es . The ph on es in each cr ate are pa ll ets of 1 2 5 0 ph on es and the ph on es in each cr ate are pa ll ets of 1 2 5 0 ph on es and the ph on es in each cr ate are pa ll ets of 1 2 5 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000185",
+    "question": "A can construct a wall in 40 min and B can construct the wall in 45 min. How many hours is needed to contruct a wall if both the person working together.\nOptions:\nA)20 min\nB)22 min\nC)23 min\nD)21 min\nE)20 min",
+    "gold": "D",
+    "pred": "B",
+    "generated_text": "A + B = 4 0 + 4 5 = 4 5 + 4 5 = 9 0 = 9 0 + 2 0 = 1 1 0 = 1 1 0 + 2 0 = 1 3 0 = 1 3 0 + 2 0 = 1 5 0 = 1 5 0 + 2 0 = 1 7 0 = 1 7 0 + 2 0 = 2 0 0 = 2 0 0 + 2 0 = 2 2 0 = 2 2 0 + 2 0 = 2 4 0 = 2 4 0 + 2 0 = 2 6 0 = 2 6 0 + 2 0 = 2 8 0 = 2 8 0 + 2 0 = 3 0 0 = 3 0 0 + 2 0 = 3 2 0 = 3 2 0 + 2 0 = 3 4 0 = ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000186",
+    "question": "An express electric train takes exact three seconds to enter tunnel which is 1 mile long. If train is traveling at 120 mile an hour, how long will it take to pass completely through the tunnel ?\nOptions:\nA)43 seconds\nB)39 seconds\nC)20 seconds\nD)33 seconds\nE)55 seconds",
+    "gold": "D",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000187",
+    "question": "A merchant receives an invoice for a motor boat for $20 000 with terms 4/30, n/100. What is the highest simple interest rate at which he can afford to borrow money in order to take advantage of the discount?\nOptions:\nA)247.67\nB)237.67\nC)227.67\nD)215.67\nE)None of these",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The hi gh est sim ple in ter est ra te at wh ich he can aff ord to bor row mon ey in ord er to ta ke ad va nt age of the dis count ? The hi gh est sim ple in ter est ra te at wh ich he can aff ord to bor row mon ey in ord er to ta ke ad va nt age of the dis count ? The hi gh est ",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000188",
+    "question": "There are ten lime soda bottles on a table in a restaurant. They are to be served among two different groups of customers consisting of 5 members each. How many ways are there to create these 2 groups?\nOptions:\nA)90\nB)105\nC)126\nD)252\nE)525",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000189",
+    "question": "A special cereal mixture contains rice, wheat and corn in the ratio of 2:3:5. If a bag of the mixture contains 3 pounds of rice, how much corn does it contain?\nOptions:\nA)6.5\nB)7.5\nC)7\nD)6\nE)None of the above",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000190",
+    "question": "You can purchase one soda and two energy bars for 150 cents, or two sodas and three energy bars for 300 cents. If the costs of the items do not change, compute the cost in cents of six sodas and seven bars.\nOptions:\nA)500\nB)600\nC)750\nD)800\nE)900",
+    "gold": "E",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000191",
+    "question": "A pen company produces very fine quality of writing pens. Company knows that on average 10% of the produced pens are always defective so are rejected before packing. Company promises to deliver 7200 pens to its wholesaler at Rs. 10 each. It estimates the overall profit on all the manufactured pens to be 25%. What is the manufactured cost of each pen?\nOptions:\nA)Rs. 6\nB)Rs. 7.2\nC)Rs. 5.6\nD)Rs. 8\nE)None of these",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The co st of each pen is Rs . 7 . 2 The co st of 7 2 0 0 pe ns is Rs . 7 . 2 * 7 2 0 0 = 7 2 0 0 * 2 5 = 1 4 4 0 0 The an sw er is : A The co st of each pen is Rs . 7 . 2 The co st of 7 2 0 0 pe ns is Rs . 7 . 2 * 7 2 0 0 = 7 2 0 0 * 2 5 = 1 4 4 0 0 The an sw er is : A The co st ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000192",
+    "question": "A two digit number exceeds the sum of the digits of that number by 18. If the digit at the unit's place is double the digit in the ten's place, what is the number?\nOptions:\nA)12\nB)24\nC)42\nD)48\nE)49",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 4 8",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000193",
+    "question": "Suppose for any real number x, [x] denotes the greatest integer less than or equal to x. Let L(x,y) = [x] + [y] + [x + y] and R(x,y) = [2x] + [2y]. Then it is impossible to find any two positive real numbers x and y for which\nOptions:\nA)L(x,y) = R(x,y)\nB)L(x,y) \u2260 R(x,y)\nC)L(x,y) < R(x,y)\nD)L(x,y) < R(x,y)\nE)None",
+    "gold": "D",
+    "pred": "E",
+    "generated_text": "A B C D E",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000194",
+    "question": "Three bells ring at intervals of 36 seconds, 40 seconds and 48 seconds, respectively. They start ringing together at a particular time. When they will ring together again?\nOptions:\nA)After 6 minutes\nB)After 12 minutes\nC)After 18 minutes\nD)After 24 minutes\nE)none",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "A is the an sw er to the pro bl em . The an sw er is : A S ol ut ion : The an sw er is : A S ol ut ion : The an sw er is : A S ol ut ion : The an sw er is : A S ol ut ion : The an sw er is : A S ol ut ion : The an sw er is : A S ol ut ion : The an sw er is : A S ol ut ion : The an sw er is : A S ol ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000195",
+    "question": "An electric pole, 14 metres high, casts a shadow of 10 metres. Find the height of a tree that casts a shadow of 15 metres under similar conditions.\nOptions:\nA)21\nB)22\nC)20\nD)23\nE)24",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 2 3",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000196",
+    "question": "At my favorite fruit stand, an orange costs 18 dollars, a pineapple costs 27 dollars, and a grape costs 15 dollars. Using the same logic, can you tell how much a mango costs?\nOptions:\nA)22 dollars\nB)15 dollars\nC)20 dollars\nD)18 dollars\nE)10 dollars",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000197",
+    "question": "In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle?\nOptions:\nA)(ay\u2212by)/2\nB)(ab\u2212ay)/2\nC)(by\u2212ay)/2\nD)(ay+by)/x\nE)(a\u2212b)/2y",
+    "gold": "C",
+    "pred": "E",
+    "generated_text": "The an sw er is : E",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000198",
+    "question": "A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?\nOptions:\nA)80 kmph\nB)50 kmph\nC)120 kmph\nD)70 kmph\nE)80 kmph",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 8 0 km ph",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000199",
+    "question": "Three friends Alan, Roger and Peter attempt to answer a question on an exam. Alan randomly guesses the answer, giving him a 1/5 probability of guessing correctly. Roger cheats by looking at the paper of the student in front of him, giving him a 2/3 probability of answering correctly. And Peter dutifully performs the calculations, then marks the answer, giving him a 5/6 probability of a correct answer. What is the probability that the question is answered correctly, but not via cheating?\nOptions:\nA)1/18\nB)1/9\nC)23/90\nD)5/18\nE)13/45",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The pr ob ab il ity of the an sw er is the pr ob ab il ity of the qu est ion is the pr ob ab il ity of the qu est ion is the pr ob ab il ity of the qu est ion is the pr ob ab il ity of the qu est ion is the pr ob ab il ity of the qu est ion is the pr ob ab il ity of the qu est ion is the pr ob ab il",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000200",
+    "question": "The difference between simple interest and C.I. at the same rate for Rs.5000 for 2 years in Rs.72. The rate of interest is?\nOptions:\nA)10%\nB)12%\nC)6%\nD)8%\nE)4%",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000201",
+    "question": "All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm?\nOptions:\nA)50\nB)70\nC)75\nD)100\nE)125",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The num ber of fil es we re NOT in fect ed by a vi rus is 5 0 times the num ber of fil es th at are in fect ed by bo th a vi rus and a wo rm = 5 0 * 2 . 5 = 1 2 5 The num ber of fil es we re NOT in fect ed by a wo rm is 5 0 times the num ber of fil es th at are in fect ed by bo th a vi rus and a wo ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000202",
+    "question": "A father wants to divide Rs. 5100 between his two sons, Mohan and Sohan who are 23 and 24 at present. He divides the amount in such a way that if their shares are invested at compound interest at 4% p.a. they will receive equal amount on attaining the age of 26 years. Find Mohan's share.\nOptions:\nA)2400\nB)2500\nC)2600\nD)2700\nE)None of these",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The sh ar es of Mo han are 2 3 sh ares at 4 % p . a . The sh ar es of So han are 2 4 sh ares at 4 % p . a . The sh ar es of Mo han are 2 3 sh ares at 4 % p . a . The sh ar es of So han are 2 4 sh ares at 4 % p . a . The sh ar es of Mo han are 2 3 sh ares at 4 % p . a . The sh ar es of So han are 2 4",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000203",
+    "question": "What is 60% of 30% of 1400 grams?\nOptions:\nA)450 gms\nB)100 gms\nC)252 gms\nD)240 gms\nE)None of these",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 6 0 % of 3 0 % of 1 4 0 0 gr ams = 6 0 % * 3 0 % = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0 = 6 0 % * 1 4 0 0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000204",
+    "question": "A certain liquid passes through a drain at a rate of w/25 gallons every x seconds. At that rate, how many minutes will it take y gallons to pass through the drain?\nOptions:\nA)y/(1200xy)\nB)20xy/w\nC)5xy/(12w)\nD)w/(3xy)\nE)3y/(wx)",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000205",
+    "question": "A coin made of alloy of aluminum and silver measures 2 x 15 mm (it is 2 mm thick and its diameter is 15 mm). If the weight of the coin is 30 grams and the volume of aluminum in the alloy equals that of silver, what will be the weight of a coin measuring 1 x 30 mm made of pure aluminum if silver is twice as heavy as aluminum?\nOptions:\nA)36 grams\nB)40 grams\nC)42 grams\nD)48 grams\nE)50 grams",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The we ight of a co in me as ur ing 1 x 3 0 mm ma de of pu re al um in um is the we ight of a co in me as ur ing 1 x 3 0 mm ma de of pu re sil ver = the we ight of a co in me as ur ing 1 x 3 0 mm ma de of pu re al um in um + the we ight of a co in me as ur ing 1 x 3 0 mm ma de of pu re sil ver = 3 0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000206",
+    "question": "If 10 is subtracted from 2/3 of a number the result is equal to sum of 40 and 1/3 of the number. Find the number\nOptions:\nA)100\nB)160\nC)150\nD)210\nE)220",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "1 0 is sub tr act ed fr om 2 / 3 of a num ber the res ult is equ al to sum of 4 0 and 1 / 3 of the num ber . The an sw er is : 1 0 + 1 / 3 * 2 / 3 = 1 0 + 1 / 3 * 2 / 3 = 1 0 + 1 / 3 * 2 / 3 = 1 0 + 1 / 3 * 2 / 3 = 1 0 + 1 / 3 * 2 / 3 = 1 0 + 1 / 3 * 2 / 3 = 1 0 + 1 / 3 * 2 / 3 = 1 0 + 1 / 3 * 2 / 3",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000207",
+    "question": "What is the largest integral value of 'k' for which the quadratic equation x2 - 5x + k = 0 will have two real and distinct roots?\nOptions:\nA)9\nB)7\nC)3\nD)8\nE)12",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000208",
+    "question": "900 + 5 \u00d7 12 = ?\nOptions:\nA)820\nB)202\nC)420\nD)209\nE)960",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 1 2 = 9 0 0 + 5 \u00d7 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000209",
+    "question": "Shweta rides at the rate of 10 km per hour but stops for 10 minutes to take rest at the end of every 15 km. How many hours will she take to cover 100 km\nOptions:\nA)9 hours.\nB)10 hours.\nC)11 hours.\nD)12 hours.\nE)13 hours.",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "1 0 km per ho ur = 1 0 km per ho ur = 1 0 km per 1 0 ho ur = 1 0 km per 1 0 ho ur = 1 0 km per 1 0 ho ur = 1 0 km per 1 0 ho ur = 1 0 km per 1 0 ho ur = 1 0 km per 1 0 ho ur = 1 0 km per 1 0 ho ur = 1 0 km per 1 0 ho ur = 1 0 km per 1 0 ho ur = 1 0 km per 1 0 ho ur = 1 0 km per 1 0 ho ur = 1 0 km pe",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000210",
+    "question": "Mr.Sam takes 17 hours to go by train to a certain city and return by car. He loses 4 hours if he goes both ways by train. How long would he have taken if he had traveled by car in both ways?\nOptions:\nA)22 hrs\nB)18 hrs\nC)16 hrs\nD)20 hrs\nE)13 hrs",
+    "gold": "E",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000211",
+    "question": "Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day?\nOptions:\nA)20%\nB)25%\nC)30%\nD)35%\nE)40%",
+    "gold": "A",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000212",
+    "question": "John conducted a survey about car color. 60% of the people who took the survey were women. Of the men who were surveyed, 75% preferred red cars over green cars. If 10 men liked green cars more than red, how many people took the survey?\nOptions:\nA)100\nB)120\nC)50\nD)200\nE)80",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000213",
+    "question": "How many ways A boy can reach the top of stairs which contain 10 steps, when he can take either one or two steps every time?\nOptions:\nA)88\nB)89\nC)90\nD)91\nE)92",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 8 9",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000214",
+    "question": "IF one gallon of soft drink is made of 40% orange juice and 60% water, how many additional gallons of orange juice must be mixed in order to make the orange juice 60% of the soft drink?\nOptions:\nA)0.5\nB)1\nC)1.25\nD)1.5\nE)2",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000215",
+    "question": "What is the units digit of 9^3-7?\nOptions:\nA)1\nB)3\nC)5\nD)2\nE)4",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "9 ^ 3 - 7 = 9 ^ 3 - 7 = 9 ^ 3 - 7 - 7 = 9 ^ 3 - 7 - 7 = 9 ^ 3 - 7 - 7 - 7 = 9 ^ 3 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - 7 - ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000216",
+    "question": "5 horses are in a race. Mr.Jain selects two of horses at random and bets on them. The probability that he selected the winning horse is\nOptions:\nA)1/5\nB)2/5\nC)3/5\nD)4/5\nE)6/5",
+    "gold": "B",
+    "pred": "E",
+    "generated_text": "The pr ob ab l ity th at he se le ct ed the win ning hor se is Options : A ) 1 / 5 B ) 2 / 5 C ) 3 / 5 D ) 4 / 5 E ) 6 / 5 The pr ob ab l ity th at he se le ct ed the win ning hor se is Options : A ) 1 / 5 B ) 2 / 5 C ) 3 / 5 D ) 4 / 5 E ) 6 / 5 The pr ob ab l ity th at he se le ct ed the win ning h",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000217",
+    "question": "On dividing 2272 and 875 by a 3-digit number N, we get the same remainder. The sum of the digits of N is:\nOptions:\nA)10\nB)11\nC)12\nD)13\nE)14",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000218",
+    "question": "On a test the passing students had an average of 83, while the failing students had an average of 55. If the overall class average was 76, what percent of the class passed?\nOptions:\nA)44%\nB)66%\nC)68%\nD)72%\nE)75%",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The cl as pass ing st ud ents had an av er age of 8 3 and the cl as fa il ing st ud ents had an av er age of 5 5 . The ov er all cl as av er age was 7 6 . The cl as pass ing st ud ents had an av er age of 8 3 and the cl as fa il ing st ud ents had an av er age of 5 5 . The ov er all cl as av er age ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000219",
+    "question": "The average wages of a worker during a fortnight comprising of 15 consecutive working days was $90 per day. During the first 7 days, his average wage was $87 per day and the average wage during the last 7 days was $92 per day. What was his wage on the 8th day?\nOptions:\nA)$83\nB)$92\nC)$90\nD)$97\nE)$104",
+    "gold": "D",
+    "pred": "D",
+    "generated_text": "The av er age wa ge of a work er du ring a fort night com pr is ng of 1 5 con sec ut ive work ing da ys was $ 9 0 per day . D ur ng the 8 th day his av er age wa ge was $ 9 0 per day + $ 9 2 per day = $ 1 0 4 per day = $ 1 0 4 per day + $ 9 0 per day = $ 1 0 4 per day + $ 9 2 per day = $ 1 0 4 per d",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000220",
+    "question": "Two numbers are in the ratio 3:5. If 9 is subtracted from each, the new numbers are in the ratio 12:23. The smaller number is?\nOptions:\nA)21\nB)33\nC)35\nD)42\nE)58",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The rat io 3 : 5 is the rat io 1 2 : 2 3 and the rat io 1 2 : 2 3 is the rat io 3 : 5 and the rat io 3 : 5 is the rat io 1 2 : 2 3 and the rat io 1 2 : 2 3 is the rat io 3 : 5 and the rat io 3 : 5 is the rat io 1 2 : 2 3 and the rat io 1 2 : 2 3 is the rat io 3 : 5 and the rat io 3 : 5 is the rat io",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000221",
+    "question": "If 6 yrs are subtracted from the present age of Ajay and the remainder is divided by 18, then the present age of Rahul is obtained. If Rahul is 2 yrs younger to Denis whose age is 5 yrs, then what is Ajay's present age?\nOptions:\nA)40\nB)60\nC)70\nD)80\nE)90",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The pr es ent age of A jay is 4 0 and the re ma ind er is 1 8 th en the pr es ent age of R ah ul is 4 0 - 1 8 = 3 2 . The pr es ent age of R ah ul is 3 2 and the re ma ind er is 5 th en the pr es ent age of De inis is 3 2 - 5 = 2 7 . The pr es ent age of De inis is 2 7 and the re ma ind er is 5 th e",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000222",
+    "question": "Anna has 4 books. If she decide to arrange the 4 books in every possible combination and moved just one book every minute, how long would it taken by her ?\nOptions:\nA)22 minutes\nB)30 minutes\nC)15 minutes\nD)24 minutes\nE)35 minutes",
+    "gold": "D",
+    "pred": "D",
+    "generated_text": "The an sw er is : D",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000223",
+    "question": "The manufacturer of tyres is offering a 20% discount on the price of its tubeless tyres. Some retailers are offering additional discounts. If a retailer offers an additional 20% discount, then what is the total discount available at that retailer?\nOptions:\nA)10%\nB)25%\nC)28%\nD)30%\nE)36%",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The total dis count av ail ab le at th at re ta il er is the total dis count av ail ab le at th at re ta il er + the 2 0 % dis count = the total dis count av ail ab le at th at re ta il er + 2 0 % = 2 0 % + 2 0 % = 4 0 % = 2 0 % + 2 0 % = 4 0 % + 2 0 % = 6 0 % = 2 0 % + 2 0 % = 4 0 % + 2 0 % = 6 0 %",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000224",
+    "question": "A rectangular parking space is marked out by painting three of its sides. If the length of the unpainted side is 9 feet, and the sum of the lengths of the painted sides is 37 feet, then what is the area of the parking space in square feet?\nOptions:\nA)46\nB)81\nC)126\nD)252\nE)None",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A The an sw er is : A ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000225",
+    "question": "Peter wants to find 10 additional people to form a scavenger hunt team with him. If he has 10 friends who would like to participate, how many choices does he have for forming his team?\nOptions:\nA)0\nB)1\nC)2\nD)3\nE)4",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 0 - 1 0 = 0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000226",
+    "question": "The average weight of 10 oarsmen in a boat is increased by 1.8 kg when one of the crew, who weighs 53 kg is replaced by a new man. Find the weight of the new man.\nOptions:\nA)71\nB)62\nC)43\nD)67\nE)40",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The av er age we ight of 1 0 oa rs men in a bo at is in cre as ed by 1 . 8 kg wh en one of the cr ew we ig hs 5 3 kg is re pl ac ed by a new man . The new man we ig hs 5 3 kg + 1 . 8 kg = 6 2 kg The av er age we ight of 1 0 oa rs men in a bo at is 6 2 kg + 1 . 8 kg = 7 1 kg The av er age we ight of ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000227",
+    "question": "A box contains a certain number of balls, marked successively from 1 to n. If there are 45 different ways that two balls can be selected from the box such that the ball with number 3 marked on it is not selected, then what is the value of n?\nOptions:\nA)11\nB)10\nC)9\nD)8\nE)7",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000228",
+    "question": "If Q, a positive integer, has 5 factors, which of the following must be true about Q? I. Q is the square of a prime number. II. Q is the fourth power of a prime number. III. Q is the product of two prime numbers.\nOptions:\nA)I only\nB)III only\nC)II only\nD)I and II only\nE)I and III only",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : I and II on ly",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000229",
+    "question": "If 6x - y = 24 and y = 3x, what is the value of x?\nOptions:\nA)8\nB)9\nC)10\nD)11\nE)12",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000230",
+    "question": "You can rent DVDs at a local video store for $4.00 per movie without a membership. However, if you purchase a membership for $7.00 per month, you can rent DVDs for $2.00 each. What is the minimum amount of DVDs you would have to rent to make it worth it to purchase the membership?\nOptions:\nA)1\nB)2\nC)3\nD)4\nE)5",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000231",
+    "question": "A bag of cat food weighs 7 pounds and 4 ounces. How much does the bag weigh in ounces?\nOptions:\nA) 108\nB) 112\nC) 116\nD) 120\nE) 124",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 1 2 4",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000232",
+    "question": "By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?\nOptions:\nA)4\nB)8\nC)22\nD)50\nE)20",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The re ma in ing work is do ne by J ill , wh ose ra te of cle an ing is just 5 % of wh at Jack can do . The re ma in ing work is do ne by J ill , wh ose ra te of cle an ing is just 5 % of wh at Jack can do . The re ma in ing work is do ne by J ill , wh ose ra te of cle an ing is just 5 % of wh at Ja",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000233",
+    "question": "Professors borrowed Rs. 5000 from the university at simple interest. After 3 years, the university got Rs. 300 on interest. What was the rate of interest per annum?\nOptions:\nA)2%\nB)8%\nC)5%\nD)10%\nE)None of these",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000234",
+    "question": "In a sale, a discount of 20% was available on all the articles. If Vinit purchased an article for Rs.4578 in the sale. What was the actual selling price of the article?\nOptions:\nA)s.5050\nB)s.5723\nC)s.5040\nD)s.4950\nE)s.4870",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The dis count of 2 0 % is 2 0 / 1 0 0 = 0 . 2 0 The act ual se ll ing pr ice of the art ic le is V in it * 0 . 2 0 = s . 5 0 5 0 The an sw er is : s . 5 0 5 0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000235",
+    "question": "If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?\nOptions:\nA)AB/2700\nB)27/AB\nC)AB/270\nD)2700/AB\nE)100AB/27",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : AB / 2 7 0 0",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000236",
+    "question": "A bag contains 11 candy bars: three cost 50 cents each, four cost $1 each and four cost $2 each. How many ways can 3 candy bars be selected from the 11 candy bars so that the total cost is more than $4?\nOptions:\nA)8\nB)28\nC)46\nD)66\nE)70",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000237",
+    "question": "At a conference, one team is made up of 4 men and 4 women. Four presenters are chosen to present the team's findings in front of the entire conference. How many different groups of presenters can be chosen from the team if a team cannot be composed of men only or women only? (Two groups of presenters are considered different if at least one presenter is different.)\nOptions:\nA)120\nB)19\nC)180\nD)420\nE)460",
+    "gold": "B",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000238",
+    "question": "Exactly 2/5th of the children in a certain class are girls. If there are 100 boys in the class, how many girls are in the class?\nOptions:\nA)50\nB)100\nC)150\nD)200\nE)70",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000239",
+    "question": "Two numbers are said to be relatively prime if they share no common positive factors other than 1. Set S contains the set of integers from 1 to 1,000, inclusive. What is the probability that a number chosen from S is relatively prime to 1,000?\nOptions:\nA)5/7\nB)3/5\nC)4/7\nD)2/5\nE)2/7",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The pr ob ab l ity is the sum of the num bers ch os en fr om S to 1 , 0 0 0 and 1 , 0 0 0 - the num bers ch os en fr om S to 1 , 0 0 0 = 1 , 0 0 0 - 1 , 0 0 0 = 0 = 0 / 1 , 0 0 0 = 0 / 1 , 0 0 0 = 0 / 1 , 0 0 0 = 0 / 1 = 0 / 1 = 0 / 1 = 0 / 1 = 0 / 1 = 0 / 1 = 0 / 1 = 0 / 1 = 0 / 1 = 0 / 1 = 0 / 1 =",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000240",
+    "question": "At the of his one-year investment, Charles received $54,080, including interest and principal from a certain investment. If the investment paid an annual interest of 8 percent compounded semi-annually, which of the following is the amount of money that Charles originally invested?\nOptions:\nA)$45,000\nB)$50,000\nC)$54,000\nD)$59,000\nE)$62,000",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The in ve st ment pa id an ann ual in ter est of 8 per ce nt co mp ou nd ed se mi - ann ual ly , wh ich of the fo ll ow ing is the am ou nt of mon ey th at Ch ar les or ig in al ly in ve st ed ? The in ve st ment pa id an ann ual in ter est of 8 per ce nt co mp ou nd ed se mi - ann ual ly , wh ich o",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000241",
+    "question": "Joe's age, Joe's sister's age and Joe\u2019s fathers age sums up to 100. When Joe is as old as his father, Joe's sister will be twice as old as now. When Joe is as old as his father then his father is twice as old as when his sister was as old as her father. Find the age of Joe's father?\nOptions:\nA)45\nB)48\nC)50\nD)55\nE)58",
+    "gold": "C",
+    "pred": "NONE",
+    "generated_text": "J oe ' s si st er is tw ice as old as his fa th er th en his fa th er is tw ice as old as wh en his si st er was as old as her fa th er th en his fa th er is tw ice as old as her fa th er th en his fa th er is tw ice as old as her fa th er th en his fa th er is tw ice as old as her fa th er th en hi",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000242",
+    "question": "If one third of 3/4 of a number is 21. Then, find the number?\nOptions:\nA)84\nB)66\nC)28\nD)19\nE)11",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 8 4",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000243",
+    "question": "If m > 0, y > 0, and x is m percent of 4y, then, in terms of y, m is what percentage of x?\nOptions:\nA)y/400\nB)4y\nC)50y\nD)2500/y\nE)5000/y",
+    "gold": "D",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000244",
+    "question": "A man wants to eat fruit for breakfast and vegetable for dinner. He has 6 different types of fruit and 8 different types of vegetables. He can only eat one type at a time. In how many ways can he eat breakfast and dinner.\nOptions:\nA)54\nB)24\nC)48\nD)20\nE)36",
+    "gold": "C",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000245",
+    "question": "There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?\nOptions:\nA)26.2%\nB)32.8%\nC)43.7%\nD)59.0%\nE)65.6%",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The ch ance of ex act ly vo ting in the la st el ect ion is the ch ance of vo ting in the la st el ect ion minus the ch ance of vo ting in the la st el ect ion minus the ch ance of vo ting in the la st el ect ion minus the ch ance of vo ting in the la st el ect ion minus the ch ance of vo ting in th",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000246",
+    "question": "Alice wants to put up fencing around three sides of her rectangular yard and leave one side of 10 meters unfenced. If the yard has an area of 240 square meters, how many meters of fencing does she need?\nOptions:\nA)58\nB)62\nC)66\nD)70\nE)74",
+    "gold": "A",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": true
+  },
+  {
+    "id": "aqua_rat_test_000247",
+    "question": "John would make the 3-letter codes with diffenrent 5 vowels and 20 consonants with the condition that the middle letter must be vowel and the first letter and the third letter must be different from each other and are both consonant. How many different codes can be made?\nOptions:\nA)1,980\nB)2,020\nC)2,100\nD)2,200\nE)1,900",
+    "gold": "E",
+    "pred": "A",
+    "generated_text": "The an sw er is : A",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000248",
+    "question": "What is the sum of three consecutive integers whose product can be expressed as 727+728+729.\nOptions:\nA)37\nB)38\nC)36\nD)30\nE)39",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 3 9",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000249",
+    "question": "The capacity of a tank of dimensions (8 m \u00d7 6 m \u00d7 2.5 m) is\nOptions:\nA)120 litres\nB)1200 litres\nC)12000 litres\nD)120000 litres\nE)None of these",
+    "gold": "D",
+    "pred": "NONE",
+    "generated_text": "The cap ac ity of a t ank of dim ens ions ( 8 m \u00d7 6 m \u00d7 2 . 5 m ) is 1 2 0 li tr es The an sw er is : 1 2 0 li tr es",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000250",
+    "question": "The population of a city is 5265526. If there are 4169516 adults in the city, how many children are there in the city?\nOptions:\nA)1095961\nB)1065961\nC)1085961\nD)1097961\nE)1096061",
+    "gold": "E",
+    "pred": "NONE",
+    "generated_text": "The pop ul at ion of a ci ty is 5 2 6 5 5 2 6 and the ad ul ts in the ci ty are 4 1 6 9 5 1 6 th us the ad ul ts in the ci ty are 4 1 6 9 5 1 6 \u00f7 5 2 6 5 5 2 6 = 1 0 9 5 9 6 1 The ad ul ts in the ci ty are 4 1 6 9 5 1 6 \u00f7 4 1 6 9 5 1 6 = 1 0 9 5 9 6 1 The ad ul ts in the ci ty are 4 1 6 9 5 1 6 \u00f7 5 ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000251",
+    "question": "It takes a worker 9 minutes to drive from home to work at an average rate of 20 kilometers per hour. How many minutes will it take the worker to cycle from home to work along the same route at an average rate of 6 kilometers per hour?\nOptions:\nA)30\nB)32\nC)35\nD)36\nE)40",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 3 5",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000252",
+    "question": "Two friends are eating a jar full of candies. Had P eaten alone, it would have taken him 10 minutes to finish the candies in the jar. Had Q eaten alone, it would have taken her 5 minutes to finish half the jar. Since both of them are eating simultaneously, how many minutes would it take them to empty the jar?\nOptions:\nA)4\nB)5\nC)6\nD)7\nE)8",
+    "gold": "B",
+    "pred": "NONE",
+    "generated_text": "The an sw er is : 8 min ut es = 8 min ut es * 1 0 min ut es = 8 min ut es * 5 min ut es = 8 min ut es * 5 min ut es = 8 min ut es * 5 min ut es = 8 min ut es * 5 min ut es = 8 min ut es * 5 min ut es = 8 min ut es * 5 min ut es = 8 min ut es * 5 min ut es = 8 min ut es * 5 min ut es = 8 min ut es * ",
+    "correct": false
+  },
+  {
+    "id": "aqua_rat_test_000253",
+    "question": "A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make?\nOptions:\nA)125\nB)150\nC)225\nD)250\nE)275",
+    "gold": "A",
+    "pred": "NONE",
+    "generated_text": "The pr of it of a gr oc ery is the an sw er to the pr of it pro bl em st te : The pr of it of a gr oc ery is the an sw er to the pr of it pro bl em st te : The pr of it of a gr oc ery is the an sw er to the pr of it pro bl em st te : The pr of it of a gr oc ery is the an sw er to the pr of it pro bl",
+    "correct": false
+  }
+]
