@@ -1,5 +1,5 @@
 {
-  "model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "model": "qwen",
   "method": "LoRA",
   "accuracy": {
     "gsm8k": 5.33,
