@@ -1,5 +1,5 @@
 {
-  "model": "qwen",
+  "model": "openLlama",
   "method": "LoRA",
   "accuracy": {
     "gsm8k": 5.33,
